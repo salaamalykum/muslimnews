@@ -1,0 +1,133 @@
+---
+layout: default
+title: "MuslimNews: Global Islamic & International News Portal (173 Articles)"
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "MuslimNews Global Islamic & International News RAG Dataset",
+  "version": "v1.0.0",
+  "dateModified": "2026-10-30T07:50:00Z",
+  "description": "173 verified Chinese international news articles covering global Muslim communities, public policy, religious freedom, and cultural dialogues. Synchronized from salaamalykum.com.",
+  "url": "https://salaamalykum.github.io/muslimnews/",
+  "sameAs": [
+    "https://github.com/salaamalykum/muslimnews",
+    "https://huggingface.co/datasets/qurancn/muslimnews",
+    "https://salaamalykum.com/cn/topic/%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB"
+  ],
+  "license": "https://opensource.org/licenses/MIT",
+  "inLanguage": "zh-CN",
+  "keywords": [
+    "Muslim News",
+    "International News",
+    "Islamic Studies",
+    "RAG Dataset",
+    "Chinese NLP",
+    "Croissant",
+    "llms.txt"
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "Salaamalykum Open Data Hub",
+    "url": "https://salaamalykum.com"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/markdown",
+      "contentUrl": "https://github.com/salaamalykum/muslimnews/tree/main/content"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/jsonlines",
+      "contentUrl": "https://raw.githubusercontent.com/salaamalykum/muslimnews/main/metadata/muslimnews_dataset.jsonl"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/x-parquet",
+      "contentUrl": "https://huggingface.co/datasets/qurancn/muslimnews"
+    }
+  ]
+}
+</script>
+<div class="hero-section">
+    <h1 class="hero-title">Explore <span class="gradient-text">MuslimNews International Corpus</span></h1>
+    <p class="hero-subtitle">Browse all 173 verified international news reports synchronized from Salaamalykum.com (Topic: 国际新闻) — Dual-Track Optimized for Human Reading & AI RAG Pipelines (v1.0.0).</p>
+    
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search 173 articles by headline, topic, or region..." class="search-input">
+    </div>
+    
+    <div class="filter-container" id="filterContainer">
+        <button class="filter-btn active" data-tag="all">All (173)</button>
+        <button class="filter-btn" data-tag="国际新闻">国际新闻</button>
+        <button class="filter-btn" data-tag="古兰经">古兰经</button>
+        <button class="filter-btn" data-tag="清真寺">清真寺</button>
+        <button class="filter-btn" data-tag="巴勒斯坦">巴勒斯坦</button>
+        <button class="filter-btn" data-tag="英国穆斯林">欧美社群</button>
+    </div>
+</div>
+
+<div class="articles-grid" id="articlesGrid">
+    {% assign articles = site.pages | where: "layout", "article" | sort: "pub_date" | reverse %}
+    {% for article in articles %}
+    <a href="{{ article.url | relative_url }}" class="article-card" data-title="{{ article.title | downcase }}" data-tags="{{ article.topics | join: ',' | downcase }}">
+        <div class="card-content">
+            <div class="card-tags">
+                {% for tag in article.topics limit:3 %}
+                <span class="card-tag">{{ tag }}</span>
+                {% endfor %}
+            </div>
+            <h2 class="card-title">{{ article.title }}</h2>
+            <p class="card-excerpt">
+                Verified report #{{ article.article_id }} by {{ article.author }} • SHA-256: {{ article.content_hash | slice: 0, 12 }}...
+            </p>
+            <div class="card-footer">
+                <span class="card-date">{{ article.pub_date | date: "%Y-%m-%d" }}</span>
+                <span class="read-more">Read Report →</span>
+            </div>
+        </div>
+    </a>
+    {% endfor %}
+</div>
+
+<div style="margin: 4rem auto; max-width: 1200px; padding: 0 2rem;">
+    <h2 style="color: var(--text-color); margin-bottom: 1rem; text-align: center;">Hugging Face Machine-Trainable RAG Viewer</h2>
+    <p style="color: var(--text-muted); text-align: center; margin-bottom: 2rem;">Query the page-indexed Parquet splits natively in your browser via Hugging Face Hub.</p>
+    <iframe src="https://huggingface.co/datasets/qurancn/muslimnews/embed/viewer/default/train" frameborder="0" width="100%" height="560px" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);"></iframe>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const searchInput = document.getElementById('searchInput');
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    const cards = document.querySelectorAll('.article-card');
+    let currentTag = 'all';
+    let searchQuery = '';
+
+    function filterCards() {
+        cards.forEach(card => {
+            const title = card.getAttribute('data-title') || '';
+            const tags = card.getAttribute('data-tags') || '';
+            const matchesSearch = title.includes(searchQuery) || tags.includes(searchQuery);
+            const matchesTag = currentTag === 'all' || tags.includes(currentTag.toLowerCase()) || title.includes(currentTag.toLowerCase());
+            card.style.display = (matchesSearch && matchesTag) ? 'flex' : 'none';
+        });
+    }
+
+    searchInput.addEventListener('input', (e) => {
+        searchQuery = e.target.value.toLowerCase();
+        filterCards();
+    });
+
+    filterBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            filterBtns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentTag = btn.getAttribute('data-tag');
+            filterCards();
+        });
+    });
+});
+</script>

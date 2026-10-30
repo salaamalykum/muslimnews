@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="canonical" href="{{ page.canonical_url | default: site.url | append: site.baseurl | append: page.url }}">
+    <link rel="alternate" type="application/rss+xml" title="MuslimNews RSS" href="{{ '/feed.xml' | relative_url }}">
+    <link rel="alternate" type="application/atom+xml" title="MuslimNews Atom" href="{{ '/atom.xml' | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+    <div class="app-container">
+        <header class="navbar">
+            <div class="nav-content">
+                <a href="{{ '/' | relative_url }}" class="logo">
+                    <span class="logo-icon">🌍</span>
+                    MuslimNews Knowledge Hub
+                </a>
+                <nav class="nav-links">
+                    <a href="{{ '/' | relative_url }}">Home (173)</a>
+                    <a href="{{ '/llms.txt' | relative_url }}">llms.txt</a>
+                    <a href="https://huggingface.co/datasets/qurancn/muslimnews" target="_blank" rel="noopener noreferrer">HF Dataset</a>
+                    <a href="https://github.com/salaamalykum/muslimnews" target="_blank" rel="noopener noreferrer">GitHub</a>
+                    <a href="https://salaamalykum.com/cn/topic/%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB" target="_blank" rel="noopener noreferrer">Original Source</a>
+                </nav>
+            </div>
+        </header>
+
+        <main class="main-content">
+            {{ content }}
+        </main>
+
+        <footer class="footer">
+            <div class="footer-content">
+                <p>&copy; 2026 Salaamalykum Open Data Hub. Release v1.0.0 | Last Updated: 2026-10-30T07:50:00Z</p>
+                <p class="footer-sub">Dual-Track Architecture: GitHub Pages (Human View) + Hugging Face Parquet/JSONL (Machine RAG View).</p>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

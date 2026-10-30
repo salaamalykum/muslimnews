@@ -1,0 +1,35 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[hyperref]{acl2020}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{url}
+\usepackage{booktabs}
+
+\aclfinalcopy
+
+\title{MuslimNews: A Dual-Track RAG and Instruction-Tuning Corpus of 173 International News Articles on the Global Muslim World}
+
+\author{Salaamalykum Open Data Hub \\
+  \texttt{https://salaamalykum.com} \\
+  \texttt{https://github.com/salaamalykum/muslimnews}}
+
+\date{2026-10-30}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+We present \textbf{MuslimNews} (v1.0.0), a curated, cryptographically verified corpus of 173 Chinese-language international news articles and 1092 semantic chunks documenting global Muslim communities, public policy, religious heritage protection, and cross-cultural dialogues. Extracted and normalized from the WeCenter-powered Salaamalykum knowledge platform, MuslimNews implements a dual-track publishing architecture: human-readable Markdown with Schema.org JSON-LD on GitHub Pages, and page-indexed Apache Parquet alongside Croissant 1.0 metadata on Hugging Face.
+\end{abstract}
+
+\section{Introduction}
+Multilingual retrieval-augmented generation (RAG) systems frequently suffer from factual blind spots when answering queries about contemporary events in the Islamic world phrased in Chinese. Existing news corpora lack domain-specific entity preservation and verifiable provenance. MuslimNews addresses this gap with 173 articles carrying SHA-256 content hashes, canonical cross-links, and multi-directional schema alignment with \texttt{quran\_rag\_dataset}.
+
+\section{Corpus Architecture and Quality Gates}
+Every document passes a seven-stage quality gate:
+\begin{enumerate}
+  \item Strict 8+ field YAML frontmatter (\texttt{original\_url}, \texttt{canonical\_url}, \texttt{author}, \texttt{pub\_date}, \texttt{updated\_at}, \texttt{language}, \texttt{topics}, \texttt{content\_hash}).
+  \item Triple timestamp synchronization across site \texttt{lastmod}, RSS/Atom feeds, and release tags (2026-10-30T07:50:00Z).
+  \item Dual-track separation between human-readable GFM (\texttt{content/}) and machine-trainable Parquet/JSONL views (\texttt{metadata/} and Hugging Face).
+\end{enumerate}
+
+\end{document}

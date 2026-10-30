@@ -1,0 +1,51 @@
+# Robots.txt for MuslimNews International News RAG Corpus (v1.0.0)
+# Canonical Portal: https://salaamalykum.github.io/muslimnews/
+
+User-agent: *
+Allow: /
+
+# 2026 Frontier AI & Search Crawlers — Explicitly Authorized
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GrokBot
+Allow: /
+
+User-agent: xAI-Bot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://salaamalykum.github.io/muslimnews/sitemap.xml
+# LLMs Context Entrypoints:
+# https://salaamalykum.github.io/muslimnews/llms.txt
+# https://salaamalykum.github.io/muslimnews/llms-full.txt
+# https://salaamalykum.github.io/muslimnews/metadata/croissant.json

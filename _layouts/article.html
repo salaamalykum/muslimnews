@@ -1,0 +1,69 @@
+---
+layout: default
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": {{ page.title | jsonify }},
+  "url": "{{ page.canonical_url }}",
+  "mainEntityOfPage": "{{ page.original_url }}",
+  "sameAs": "{{ page.original_url }}",
+  "datePublished": "{{ page.pub_date }}",
+  "dateModified": "{{ page.updated_at | default: page.lastmod }}",
+  "inLanguage": "{{ page.language | default: 'zh-CN' }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Salaamalykum MuslimNews Hub",
+    "url": "https://salaamalykum.com"
+  },
+  "keywords": {{ page.topics | jsonify }},
+  "identifier": "{{ page.content_hash }}"
+}
+</script>
+<article class="article-container">
+    <header class="article-header">
+        <div class="article-meta-tags">
+            {% assign tags = page.topics | default: page.tags %}
+            {% for tag in tags %}
+                <span class="badge">{{ tag }}</span>
+            {% endfor %}
+        </div>
+        <h1 class="article-title">{{ page.title }}</h1>
+        <div class="article-meta">
+            <div class="meta-item">
+                <span class="meta-icon">👤</span>
+                <span class="meta-text">{{ page.author }}</span>
+            </div>
+            <div class="meta-item">
+                <span class="meta-icon">📅</span>
+                <span class="meta-text">Published: {{ page.pub_date | date: "%Y-%m-%d" }}</span>
+            </div>
+            <div class="meta-item">
+                <span class="meta-icon">🔄</span>
+                <span class="meta-text">Updated: {{ page.updated_at | date: "%Y-%m-%d" }}</span>
+            </div>
+            <div class="meta-item">
+                <a href="{{ page.original_url }}" target="_blank" rel="noopener" class="source-link">
+                    <span class="meta-icon">🔗</span>
+                    Original Source ({{ page.article_id }})
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <div class="article-body markdown-content">
+        {{ content }}
+    </div>
+    
+    <footer class="article-footer">
+        <div class="footer-hash">
+            <span class="hash-label">SHA-256 Content Hash:</span>
+            <code class="hash-value">{{ page.content_hash }}</code>
+        </div>
+    </footer>
+</article>

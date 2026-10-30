@@ -1,0 +1,3403 @@
+{
+  "dataset_name": "MuslimNews International News RAG Corpus",
+  "version": "v1.0.0",
+  "lastmod": "2026-10-30T07:50:00Z",
+  "source_topic_url": "https://salaamalykum.com/cn/topic/%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB",
+  "total_articles": 173,
+  "total_rag_chunks": 1092,
+  "articles": [
+    {
+      "id": "4989",
+      "title": "德里清真寺被封锁！法院裁定禁止进入，背后原因竟是拆迁施工？",
+      "filename": "content/4989_德里清真寺被封锁法院裁定禁止进入背后原因竟是拆迁施工.md",
+      "original_url": "https://salaamalykum.com/cn/article/4989",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4989_德里清真寺被封锁法院裁定禁止进入背后原因竟是拆迁施工.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:45:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教自由"
+      ],
+      "content_hash": "36a30846156ff75eca38cf1efb5b4a78551cf795d7ef4e3afe07ad18758e54a4",
+      "word_count": 1130
+    },
+    {
+      "id": "4988",
+      "title": "泰国掀起“古兰经热”！414名选手同台竞技，这场国家级赛事到底有多硬核？",
+      "filename": "content/4988_泰国掀起古兰经热414名选手同台竞技这场国家级赛事到底有多硬核.md",
+      "original_url": "https://salaamalykum.com/cn/article/4988",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4988_泰国掀起古兰经热414名选手同台竞技这场国家级赛事到底有多硬核.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:45:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "泰国"
+      ],
+      "content_hash": "ead24973977f0fd89dabcefccc710e2ed2328225f990608db1ff102a34647249",
+      "word_count": 674
+    },
+    {
+      "id": "4986",
+      "title": "跨越宗教的温情：印度旁遮普的锡克教徒与印度教徒，正联手为穆斯林重建被遗忘的清真寺",
+      "filename": "content/4986_跨越宗教的温情印度旁遮普的锡克教徒与印度教徒正联手为穆斯林重建被遗忘的清真寺.md",
+      "original_url": "https://salaamalykum.com/cn/article/4986",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4986_跨越宗教的温情印度旁遮普的锡克教徒与印度教徒正联手为穆斯林重建被遗忘的清真寺.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:45:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "d876312bbc9f68ac5f6287314525cc3b41dc870a750696576f2f4f86f3f48825",
+      "word_count": 1948
+    },
+    {
+      "id": "4984",
+      "title": "穆斯林在世界舞台还有话语权吗？埃及学者深度解析：别把《古兰经》读窄了！",
+      "filename": "content/4984_穆斯林在世界舞台还有话语权吗埃及学者深度解析别把古兰经读窄了.md",
+      "original_url": "https://salaamalykum.com/cn/article/4984",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4984_穆斯林在世界舞台还有话语权吗埃及学者深度解析别把古兰经读窄了.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:45:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊斯兰文明"
+      ],
+      "content_hash": "5768c3a585c2252634d2c93c371a947b72f978743bad8d3c9799d14db99d6fde",
+      "word_count": 3255
+    },
+    {
+      "id": "4982",
+      "title": "全球瞩目！沙迦古兰经大赛进入决赛圈：389名选手同台竞技，谁能摘得桂冠？",
+      "filename": "content/4982_全球瞩目沙迦古兰经大赛进入决赛圈389名选手同台竞技谁能摘得桂冠.md",
+      "original_url": "https://salaamalykum.com/cn/article/4982",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4982_全球瞩目沙迦古兰经大赛进入决赛圈389名选手同台竞技谁能摘得桂冠.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:45:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "阿联酋"
+      ],
+      "content_hash": "0dfa8a8ddafed15d102a296a3c419b062f1dc39c155fc4201282a043746b189f",
+      "word_count": 906
+    },
+    {
+      "id": "4981",
+      "title": "告别高电费！巴勒斯坦清真寺集体“换装”太阳能，这波操作太硬核了",
+      "filename": "content/4981_告别高电费巴勒斯坦清真寺集体换装太阳能这波操作太硬核了.md",
+      "original_url": "https://salaamalykum.com/cn/article/4981",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4981_告别高电费巴勒斯坦清真寺集体换装太阳能这波操作太硬核了.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:45:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "巴勒斯坦"
+      ],
+      "content_hash": "a27ce9628003051ce48295ccd4b7cb5ee81f174ede5155a51f21ee9315560bde",
+      "word_count": 946
+    },
+    {
+      "id": "4979",
+      "title": "小肯尼迪语出惊人：称阿拉伯世界没贡献、没诺奖？学术界怒了：这是赤裸裸的偏见！",
+      "filename": "content/4979_小肯尼迪语出惊人称阿拉伯世界没贡献没诺奖学术界怒了这是赤裸裸的偏见.md",
+      "original_url": "https://salaamalykum.com/cn/article/4979",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4979_小肯尼迪语出惊人称阿拉伯世界没贡献没诺奖学术界怒了这是赤裸裸的偏见.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:45:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "58a47b636cb83114db3305d1b8d4f819b5df6adc184a98aa6b756c5f852ffe89",
+      "word_count": 826
+    },
+    {
+      "id": "4977",
+      "title": "突发！圣地亚哥清真寺遭遇安全威胁紧急封锁，警方全城搜捕一辆纽约牌照SUV",
+      "filename": "content/4977_突发圣地亚哥清真寺遭遇安全威胁紧急封锁警方全城搜捕一辆纽约牌照SUV.md",
+      "original_url": "https://salaamalykum.com/cn/article/4977",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4977_突发圣地亚哥清真寺遭遇安全威胁紧急封锁警方全城搜捕一辆纽约牌照SUV.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:45:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "社会安全",
+        "圣地亚哥"
+      ],
+      "content_hash": "6c2d490e98804ac8a5e4a7b7c30a8f2ac56119451a2ed3217920afda422f9bc8",
+      "word_count": 770
+    },
+    {
+      "id": "4976",
+      "title": "从客厅祈祷到万人庆典：一部纪录片揭秘格洛斯特维吾尔及穆斯林群体的奋斗史",
+      "filename": "content/4976_从客厅祈祷到万人庆典一部纪录片揭秘格洛斯特维吾尔及穆斯林群体的奋斗史.md",
+      "original_url": "https://salaamalykum.com/cn/article/4976",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4976_从客厅祈祷到万人庆典一部纪录片揭秘格洛斯特维吾尔及穆斯林群体的奋斗史.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "社区文化"
+      ],
+      "content_hash": "0ac30ebc0f088971d588d414f8748cacbb4cc48b8d454c391a0612daa53ae1a2",
+      "word_count": 885
+    },
+    {
+      "id": "4974",
+      "title": "生在西班牙却被当成“外人”？休达穆斯林群体的愤怒：我们到底还要证明多少次身份？",
+      "filename": "content/4974_生在西班牙却被当成外人休达穆斯林群体的愤怒我们到底还要证明多少次身份.md",
+      "original_url": "https://salaamalykum.com/cn/article/4974",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4974_生在西班牙却被当成外人休达穆斯林群体的愤怒我们到底还要证明多少次身份.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "身份认同"
+      ],
+      "content_hash": "54b6c80763eb1de89492989db759fabc7e2ece16cda52f472d2b232c4ae06aa9",
+      "word_count": 2924
+    },
+    {
+      "id": "4973",
+      "title": "马来西亚国际古兰经大赛“含金量”遭质疑？伊朗专家公开叫板：评分不透明，冠军有水分！",
+      "filename": "content/4973_马来西亚国际古兰经大赛含金量遭质疑伊朗专家公开叫板评分不透明冠军有水分.md",
+      "original_url": "https://salaamalykum.com/cn/article/4973",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4973_马来西亚国际古兰经大赛含金量遭质疑伊朗专家公开叫板评分不透明冠军有水分.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Tehran Airport"
+      ],
+      "content_hash": "52741344cf885ece32c2804a8c9d505c5fe4bcd4bca606eef67c415ce26e6ca4",
+      "word_count": 1629
+    },
+    {
+      "id": "4972",
+      "title": "用“心”去听古兰经！埃及推出手语教学项目，让听障学生也能感受信仰的力量",
+      "filename": "content/4972_用心去听古兰经埃及推出手语教学项目让听障学生也能感受信仰的力量.md",
+      "original_url": "https://salaamalykum.com/cn/article/4972",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4972_用心去听古兰经埃及推出手语教学项目让听障学生也能感受信仰的力量.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "053cfb927fc46ea4a6e5606d7d4e9ed166ad7fcc01538a794fa4ec318c67ee9f",
+      "word_count": 785
+    },
+    {
+      "id": "4970",
+      "title": "全球顶尖高手云集卡塔尔！百万奖金争夺战，这场《古兰经》诵读大赛为何被称为“冠军中的冠军”？",
+      "filename": "content/4970_全球顶尖高手云集卡塔尔百万奖金争夺战这场古兰经诵读大赛为何被称为冠军中的冠军.md",
+      "original_url": "https://salaamalykum.com/cn/article/4970",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4970_全球顶尖高手云集卡塔尔百万奖金争夺战这场古兰经诵读大赛为何被称为冠军中的冠军.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "卡塔尔"
+      ],
+      "content_hash": "4365c9ddb0b47fff3923e3e50863f271591fc79d3d4b24628a4578d3438548c9",
+      "word_count": 884
+    },
+    {
+      "id": "4969",
+      "title": "阿布扎比掀起“古兰经热”！全球顶尖诵经高手齐聚，这场国际大赛到底有多硬核？",
+      "filename": "content/4969_阿布扎比掀起古兰经热全球顶尖诵经高手齐聚这场国际大赛到底有多硬核.md",
+      "original_url": "https://salaamalykum.com/cn/article/4969",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4969_阿布扎比掀起古兰经热全球顶尖诵经高手齐聚这场国际大赛到底有多硬核.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "阿布扎比"
+      ],
+      "content_hash": "c1d44769bf41bcfbe3c92b0c155aaadc011c9ff974445a57baf85b855fbd82d2",
+      "word_count": 792
+    },
+    {
+      "id": "4967",
+      "title": "泪洒纳杰夫！数万信众齐聚阿里清真寺，沉痛悼念法蒂玛殉道周年",
+      "filename": "content/4967_泪洒纳杰夫数万信众齐聚阿里清真寺沉痛悼念法蒂玛殉道周年.md",
+      "original_url": "https://salaamalykum.com/cn/article/4967",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4967_泪洒纳杰夫数万信众齐聚阿里清真寺沉痛悼念法蒂玛殉道周年.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "7aa1c0be6b846c4f00df88027e23ce3f3b965977e40842523aed980f0f2b3286",
+      "word_count": 3109
+    },
+    {
+      "id": "4966",
+      "title": "法国骚乱背后的真相：这根本不是宗教冲突，而是被忽视的社会大危机！",
+      "filename": "content/4966_法国骚乱背后的真相这根本不是宗教冲突而是被忽视的社会大危机.md",
+      "original_url": "https://salaamalykum.com/cn/article/4966",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4966_法国骚乱背后的真相这根本不是宗教冲突而是被忽视的社会大危机.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Singapore Guide"
+      ],
+      "content_hash": "fbb93b620f414ea363c9e3ff6c9356475ef71b49cfd686eb18cc661ab03a1c15",
+      "word_count": 743
+    },
+    {
+      "id": "4965",
+      "title": "反穆斯林口号卡车只是冰山一角：美国政客煽动的仇恨，正在悄悄摧毁社区的根基",
+      "filename": "content/4965_反穆斯林口号卡车只是冰山一角美国政客煽动的仇恨正在悄悄摧毁社区的根基.md",
+      "original_url": "https://salaamalykum.com/cn/article/4965",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4965_反穆斯林口号卡车只是冰山一角美国政客煽动的仇恨正在悄悄摧毁社区的根基.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "美国政治",
+        "社会正义"
+      ],
+      "content_hash": "932fbe3438458cb540eca60f2516afa464fd545aa2401a6d193cf1ab39d86491",
+      "word_count": 2962
+    },
+    {
+      "id": "4964",
+      "title": "英国谢菲尔德清真寺遭恶意破坏：古兰经被亵渎，当地社区陷入不安",
+      "filename": "content/4964_英国谢菲尔德清真寺遭恶意破坏古兰经被亵渎当地社区陷入不安.md",
+      "original_url": "https://salaamalykum.com/cn/article/4964",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4964_英国谢菲尔德清真寺遭恶意破坏古兰经被亵渎当地社区陷入不安.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教冲突",
+        "Qingdao Halal Food"
+      ],
+      "content_hash": "a02c297250558063384be53b7e6b6ad8b8f2ddb001481d9f344034797dcef489",
+      "word_count": 677
+    },
+    {
+      "id": "4963",
+      "title": "尼日利亚知名伊斯兰教长在家门口遭枪手暗杀，现场惨状曝光",
+      "filename": "content/4963_尼日利亚知名伊斯兰教长在家门口遭枪手暗杀现场惨状曝光.md",
+      "original_url": "https://salaamalykum.com/cn/article/4963",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4963_尼日利亚知名伊斯兰教长在家门口遭枪手暗杀现场惨状曝光.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "尼日利亚"
+      ],
+      "content_hash": "623a064e3858c6607794fe26adc4c80c257820e89165bd6cdaaca489e887ad5a",
+      "word_count": 524
+    },
+    {
+      "id": "4962",
+      "title": "法国公民加入“isis”后果有多惨？伊拉克法院重判：6人终身监禁，1人15年",
+      "filename": "content/4962_法国公民加入isis后果有多惨伊拉克法院重判6人终身监禁1人15年.md",
+      "original_url": "https://salaamalykum.com/cn/article/4962",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4962_法国公民加入isis后果有多惨伊拉克法院重判6人终身监禁1人15年.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "法国"
+      ],
+      "content_hash": "5233e956501f708ffff5b89482fd8fa127f166508f5f77c7ccbae8c7b04dc86c",
+      "word_count": 704
+    },
+    {
+      "id": "4961",
+      "title": "23位国际政要学者被以色列拒之门外，巴勒斯坦大学会议遭强行阻挠",
+      "filename": "content/4961_23位国际政要学者被以色列拒之门外巴勒斯坦大学会议遭强行阻挠.md",
+      "original_url": "https://salaamalykum.com/cn/article/4961",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4961_23位国际政要学者被以色列拒之门外巴勒斯坦大学会议遭强行阻挠.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "中东冲突",
+        "巴勒斯坦问题"
+      ],
+      "content_hash": "4a75fc72ae45bd1155ebae9012a566dada9542712e6298ec4a4793bc8795c2f9",
+      "word_count": 1018
+    },
+    {
+      "id": "4959",
+      "title": "奥地利小镇“清真寺风波”炸锅！极右翼政党誓言“不惜一切代价”阻止",
+      "filename": "content/4959_奥地利小镇清真寺风波炸锅极右翼政党誓言不惜一切代价阻止.md",
+      "original_url": "https://salaamalykum.com/cn/article/4959",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4959_奥地利小镇清真寺风波炸锅极右翼政党誓言不惜一切代价阻止.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Halal Hot Pot",
+        "宗教自由"
+      ],
+      "content_hash": "73e430d0b8031c5540c7ae33718ceaa5c539dde9d7c1dab82ff00f984164c227",
+      "word_count": 1214
+    },
+    {
+      "id": "4958",
+      "title": "教宗利奥十四世紧急呼吁也门停火，为约旦教堂血案受害者祈祷：战火何时休？",
+      "filename": "content/4958_教宗利奥十四世紧急呼吁也门停火为约旦教堂血案受害者祈祷战火何时休.md",
+      "original_url": "https://salaamalykum.com/cn/article/4958",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4958_教宗利奥十四世紧急呼吁也门停火为约旦教堂血案受害者祈祷战火何时休.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "d80aa91f92f50d727a52990ee26a72b739680fe2fe30d2d92405757012acdd78",
+      "word_count": 811
+    },
+    {
+      "id": "4955",
+      "title": "英国工党议员重磅发声：要求对以色列实施“全面制裁与政治孤立”，绝不容忍西岸局势恶化！",
+      "filename": "content/4955_英国工党议员重磅发声要求对以色列实施全面制裁与政治孤立绝不容忍西岸局势恶化.md",
+      "original_url": "https://salaamalykum.com/cn/article/4955",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4955_英国工党议员重磅发声要求对以色列实施全面制裁与政治孤立绝不容忍西岸局势恶化.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "中东局势",
+        "英国政治"
+      ],
+      "content_hash": "fe402704d37cfcde5c580d0f2c68a5331baa78f65811284916d43df7be364a07",
+      "word_count": 826
+    },
+    {
+      "id": "4954",
+      "title": "AI时代怎么活？新加坡这场大会把《古兰经》搬上了“热搜”，探讨人类未来的生存法则！",
+      "filename": "content/4954_AI时代怎么活新加坡这场大会把古兰经搬上了热搜探讨人类未来的生存法则.md",
+      "original_url": "https://salaamalykum.com/cn/article/4954",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4954_AI时代怎么活新加坡这场大会把古兰经搬上了热搜探讨人类未来的生存法则.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "新加坡"
+      ],
+      "content_hash": "ba2793a61569bdf12cdf81b565014fb62b4ba92a959b5a0a29574eaa94273931",
+      "word_count": 1402
+    },
+    {
+      "id": "4953",
+      "title": "沙迦地标揭秘：这座巨大的“古兰经”纪念碑，为何被视为当地的精神灯塔？",
+      "filename": "content/4953_沙迦地标揭秘这座巨大的古兰经纪念碑为何被视为当地的精神灯塔.md",
+      "original_url": "https://salaamalykum.com/cn/article/4953",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4953_沙迦地标揭秘这座巨大的古兰经纪念碑为何被视为当地的精神灯塔.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "阿联酋"
+      ],
+      "content_hash": "4aabf2e0892750fcc284e4f9aaae292ec4431670b4928938aee7e888b296764b",
+      "word_count": 2939
+    },
+    {
+      "id": "4952",
+      "title": "他是埃及诵经界的“乔布斯”：凭一己之力重塑现代古兰经诵读艺术，连顶级歌手都自愧不如！",
+      "filename": "content/4952_他是埃及诵经界的乔布斯凭一己之力重塑现代古兰经诵读艺术连顶级歌手都自愧不如.md",
+      "original_url": "https://salaamalykum.com/cn/article/4952",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4952_他是埃及诵经界的乔布斯凭一己之力重塑现代古兰经诵读艺术连顶级歌手都自愧不如.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "埃及"
+      ],
+      "content_hash": "2228a3637afd0dbd599ee8df5f76539b66a5532d6d4d3f6f157d1f6553cfba1b",
+      "word_count": 4176
+    },
+    {
+      "id": "4950",
+      "title": "瓜迪奥拉罕见发声力挺巴勒斯坦，呼吁全球声援，直指“沉默法则”与“种族灭绝”！",
+      "filename": "content/4950_瓜迪奥拉罕见发声力挺巴勒斯坦呼吁全球声援直指沉默法则与种族灭绝.md",
+      "original_url": "https://salaamalykum.com/cn/article/4950",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4950_瓜迪奥拉罕见发声力挺巴勒斯坦呼吁全球声援直指沉默法则与种族灭绝.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "巴勒斯坦问题"
+      ],
+      "content_hash": "b6f63558b439131c9a41cc1d2d3e0c80298d1b290b9ee1098fccbc26890f312e",
+      "word_count": 1170
+    },
+    {
+      "id": "4948",
+      "title": "马来西亚雄心勃勃：2050年培养12.5万“高科技”《古兰经》背诵者",
+      "filename": "content/4948_马来西亚雄心勃勃2050年培养125万高科技古兰经背诵者.md",
+      "original_url": "https://salaamalykum.com/cn/article/4948",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4948_马来西亚雄心勃勃2050年培养125万高科技古兰经背诵者.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊斯兰教育"
+      ],
+      "content_hash": "0c30c401ba1dedeb806d267ed682391de71c4630bcb39aea7d3c0977e0bdaa80",
+      "word_count": 1513
+    },
+    {
+      "id": "4947",
+      "title": "东京清真寺火了！日本民众排队体验伊斯兰文化，看完直呼：原来是这样！",
+      "filename": "content/4947_东京清真寺火了日本民众排队体验伊斯兰文化看完直呼原来是这样.md",
+      "original_url": "https://salaamalykum.com/cn/article/4947",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4947_东京清真寺火了日本民众排队体验伊斯兰文化看完直呼原来是这样.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "2c2181a92a454898c4421eb990075a52dbc2845c494747fe5880c5fcabf0d231",
+      "word_count": 816
+    },
+    {
+      "id": "4946",
+      "title": "刷爆全网！明尼苏达小哥徒手救下失控校车，19条生命安然无恙，他说：是古兰经教我的！“救一人如救全人类”",
+      "filename": "content/4946_刷爆全网明尼苏达小哥徒手救下失控校车19条生命安然无恙他说是古兰经教我的救一人如救全人类.md",
+      "original_url": "https://salaamalykum.com/cn/article/4946",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4946_刷爆全网明尼苏达小哥徒手救下失控校车19条生命安然无恙他说是古兰经教我的救一人如救全人类.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "34742b71261c4af391014bb70a971d53c11935a6e65274cb0681ff1d49146ea1",
+      "word_count": 1838
+    },
+    {
+      "id": "4941",
+      "title": "打着宗教旗号去偷橄榄？在巴勒斯坦，连树都成了被掠夺的对象",
+      "filename": "content/4941_打着宗教旗号去偷橄榄在巴勒斯坦连树都成了被掠夺的对象.md",
+      "original_url": "https://salaamalykum.com/cn/article/4941",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4941_打着宗教旗号去偷橄榄在巴勒斯坦连树都成了被掠夺的对象.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:43:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "中东局势",
+        "巴以冲突"
+      ],
+      "content_hash": "c9ef36392f6f2257d7ff8d0acf6d382d9b1271783b02b394f029d4a63e21a575",
+      "word_count": 2867
+    },
+    {
+      "id": "4940",
+      "title": "因为在网上吐槽学校禁戴头巾，31名土耳其人被阿塞拜疆拒之门外：一场外交风波正在发酵",
+      "filename": "content/4940_因为在网上吐槽学校禁戴头巾31名土耳其人被阿塞拜疆拒之门外一场外交风波正在发酵.md",
+      "original_url": "https://salaamalykum.com/cn/article/4940",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4940_因为在网上吐槽学校禁戴头巾31名土耳其人被阿塞拜疆拒之门外一场外交风波正在发酵.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:43:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教自由",
+        "阿塞拜疆"
+      ],
+      "content_hash": "bf332603836f23f3d13f0f1c3a3a6dbfafb26647ad22647381b5b25d4821ab3c",
+      "word_count": 1183
+    },
+    {
+      "id": "4939",
+      "title": "首尔中央清真寺周六免费开放，非穆斯林也能来！沉浸式体验伊斯兰文化",
+      "filename": "content/4939_首尔中央清真寺周六免费开放非穆斯林也能来沉浸式体验伊斯兰文化.md",
+      "original_url": "https://salaamalykum.com/cn/article/4939",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4939_首尔中央清真寺周六免费开放非穆斯林也能来沉浸式体验伊斯兰文化.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:43:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "083c9da226928a4ee47339573c98d87bb2dd9be60ba48adf5740ad58f4cd6260",
+      "word_count": 826
+    },
+    {
+      "id": "4937",
+      "title": "2026年全球穆斯林“团结峰会”震撼来袭！伊斯坦布尔将见证“温和乌玛宪章”诞生，能否彻底打破隔阂？",
+      "filename": "content/4937_2026年全球穆斯林团结峰会震撼来袭伊斯坦布尔将见证温和乌玛宪章诞生能否彻底打破隔阂.md",
+      "original_url": "https://salaamalykum.com/cn/article/4937",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4937_2026年全球穆斯林团结峰会震撼来袭伊斯坦布尔将见证温和乌玛宪章诞生能否彻底打破隔阂.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:43:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教对话"
+      ],
+      "content_hash": "09062495092e5c6a053818958140b052be4e207cc9ed58b7ae53e52c44c0e628",
+      "word_count": 1192
+    },
+    {
+      "id": "4936",
+      "title": "加拿大前特使放大招：全球穆斯林数据中心上线，用事实硬刚“伊斯兰恐惧症”和假新闻！",
+      "filename": "content/4936_加拿大前特使放大招全球穆斯林数据中心上线用事实硬刚伊斯兰恐惧症和假新闻.md",
+      "original_url": "https://salaamalykum.com/cn/article/4936",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4936_加拿大前特使放大招全球穆斯林数据中心上线用事实硬刚伊斯兰恐惧症和假新闻.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:43:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "929a19dcb2d1320aa36469051aa1d3e821139c030b45cb1b1f2676df130908d4",
+      "word_count": 1416
+    },
+    {
+      "id": "4933",
+      "title": "紧急！印度总理官邸旁百年清真寺突遭断水断电，数百信徒冒雨祈祷，拆迁风波引爆印度社会！",
+      "filename": "content/4933_紧急印度总理官邸旁百年清真寺突遭断水断电数百信徒冒雨祈祷拆迁风波引爆印度社会.md",
+      "original_url": "https://salaamalykum.com/cn/article/4933",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4933_紧急印度总理官邸旁百年清真寺突遭断水断电数百信徒冒雨祈祷拆迁风波引爆印度社会.html",
+      "author": "jacob",
+      "pub_date": "2026-10-30T06:43:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教自由"
+      ],
+      "content_hash": "6a19b30ee8e3ff06bd20f4851dd415745096ec8c1bce2d96d7aa2d50b8d69eee",
+      "word_count": 933
+    },
+    {
+      "id": "4794",
+      "title": "孟加拉国万人诵经大赛落幕：政界大佬喊话“背诵者”：别只待在清真寺，要站出来引领社会！",
+      "filename": "content/4794_孟加拉国万人诵经大赛落幕政界大佬喊话背诵者别只待在清真寺要站出来引领社会.md",
+      "original_url": "https://salaamalykum.com/cn/article/4794",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4794_孟加拉国万人诵经大赛落幕政界大佬喊话背诵者别只待在清真寺要站出来引领社会.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:29:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "古兰经背诵",
+        "孟加拉"
+      ],
+      "content_hash": "4c97bd8ed73bdccbce8ac816327c03058f455fda58e93324ec0af5a888b32192",
+      "word_count": 1107
+    },
+    {
+      "id": "4792",
+      "title": "罗兴亚人种族灭绝案即将宣判，这会成为以色列在加沙战争中面临的“法律风向标”吗？",
+      "filename": "content/4792_罗兴亚人种族灭绝案即将宣判这会成为以色列在加沙战争中面临的法律风向标吗.md",
+      "original_url": "https://salaamalykum.com/cn/article/4792",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4792_罗兴亚人种族灭绝案即将宣判这会成为以色列在加沙战争中面临的法律风向标吗.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:29:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "罗兴亚人"
+      ],
+      "content_hash": "347649ef0f2089043a793f01d5dd4fc6d00774b3dc250c5f1d50afb9bd1851b5",
+      "word_count": 954
+    },
+    {
+      "id": "4791",
+      "title": "又拿穆斯林开涮？特朗普在集会上调侃“穆罕默德”这个名字，引发舆论争议",
+      "filename": "content/4791_又拿穆斯林开涮特朗普在集会上调侃穆罕默德这个名字引发舆论争议.md",
+      "original_url": "https://salaamalykum.com/cn/article/4791",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4791_又拿穆斯林开涮特朗普在集会上调侃穆罕默德这个名字引发舆论争议.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:28:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "特朗普"
+      ],
+      "content_hash": "81b724dfa8113ac9b3611470f278aa97402d47576b389f791b1ff723e37aed1b",
+      "word_count": 853
+    },
+    {
+      "id": "4790",
+      "title": "也门万本古籍重获新生：这些被翻烂的《古兰经》竟被修复得像新的一样！",
+      "filename": "content/4790_也门万本古籍重获新生这些被翻烂的古兰经竟被修复得像新的一样.md",
+      "original_url": "https://salaamalykum.com/cn/article/4790",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4790_也门万本古籍重获新生这些被翻烂的古兰经竟被修复得像新的一样.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:28:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "也门"
+      ],
+      "content_hash": "34c7c2c74701b6be99eae5371fafbe1f0bde7a76432216cfb1e0280f515b2b15",
+      "word_count": 937
+    },
+    {
+      "id": "4789",
+      "title": "X平台成了仇恨温床？最新研究揭露：超六成反穆斯林言论举报后仍“大摇大摆”存在",
+      "filename": "content/4789_X平台成了仇恨温床最新研究揭露超六成反穆斯林言论举报后仍大摇大摆存在.md",
+      "original_url": "https://salaamalykum.com/cn/article/4789",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4789_X平台成了仇恨温床最新研究揭露超六成反穆斯林言论举报后仍大摇大摆存在.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:27:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "dd836515514db13e3b01e72d6f4361a0ba08a13b86551c8efbf8fd47cfd16352",
+      "word_count": 1678
+    },
+    {
+      "id": "4787",
+      "title": "阿塞拜疆驻伦敦大使馆外爆发抗议：反对学校禁戴头巾，抗议者誓言每周五“不见不散”！",
+      "filename": "content/4787_阿塞拜疆驻伦敦大使馆外爆发抗议反对学校禁戴头巾抗议者誓言每周五不见不散.md",
+      "original_url": "https://salaamalykum.com/cn/article/4787",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4787_阿塞拜疆驻伦敦大使馆外爆发抗议反对学校禁戴头巾抗议者誓言每周五不见不散.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:27:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "阿塞拜疆",
+        "人权"
+      ],
+      "content_hash": "e005f7e6e4c4018a517b3737a3c645193d880c919addc7b90329855237a4eeed",
+      "word_count": 633
+    },
+    {
+      "id": "4786",
+      "title": "奖金高达50万埃镑！埃及重磅启动《古兰经》科学大赛，全城掀起研习热潮",
+      "filename": "content/4786_奖金高达50万埃镑埃及重磅启动古兰经科学大赛全城掀起研习热潮.md",
+      "original_url": "https://salaamalykum.com/cn/article/4786",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4786_奖金高达50万埃镑埃及重磅启动古兰经科学大赛全城掀起研习热潮.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:27:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Tehran Airport",
+        "埃及"
+      ],
+      "content_hash": "a17130e58ff4d892ce6213b6f9f19ec56b11d47c653b8927b229ea8b3e392596",
+      "word_count": 749
+    },
+    {
+      "id": "4785",
+      "title": "拒绝科技霸权！全球反“科学种族隔离”大会将于11月10日在德黑兰开幕",
+      "filename": "content/4785_拒绝科技霸权全球反科学种族隔离大会将于11月10日在德黑兰开幕.md",
+      "original_url": "https://salaamalykum.com/cn/article/4785",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4785_拒绝科技霸权全球反科学种族隔离大会将于11月10日在德黑兰开幕.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:26:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "005656430e789f2c93db2fb2d2b7cf02ba74ca69abf040745eb0a87526b50bd7",
+      "word_count": 654
+    },
+    {
+      "id": "4784",
+      "title": "伦敦闹市惊现“声音圣殿”：当全球各地的祈祷声在牛津街旁回荡",
+      "filename": "content/4784_伦敦闹市惊现声音圣殿当全球各地的祈祷声在牛津街旁回荡.md",
+      "original_url": "https://salaamalykum.com/cn/article/4784",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4784_伦敦闹市惊现声音圣殿当全球各地的祈祷声在牛津街旁回荡.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:26:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伦敦"
+      ],
+      "content_hash": "310c9086fb39eaaf8830eb25530b1ac655294e86e42a17fccf17641f2ef851a0",
+      "word_count": 3280
+    },
+    {
+      "id": "4783",
+      "title": "特朗普公开嘲讽“穆罕默德”这个名字，美国穆斯林组织怒了：这是政治绝望的遮羞布！",
+      "filename": "content/4783_特朗普公开嘲讽穆罕默德这个名字美国穆斯林组织怒了这是政治绝望的遮羞布.md",
+      "original_url": "https://salaamalykum.com/cn/article/4783",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4783_特朗普公开嘲讽穆罕默德这个名字美国穆斯林组织怒了这是政治绝望的遮羞布.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:26:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "特朗普"
+      ],
+      "content_hash": "5aa1bbe06183696c82c28ca39df891da61cab6f0088886444c62791462542a76",
+      "word_count": 1442
+    },
+    {
+      "id": "4782",
+      "title": "马来西亚清真寺遭“恶心”破坏：地毯被泼不明液体，混杂骨头与毛发，嫌疑人已被逮捕！",
+      "filename": "content/4782_马来西亚清真寺遭恶心破坏地毯被泼不明液体混杂骨头与毛发嫌疑人已被逮捕.md",
+      "original_url": "https://salaamalykum.com/cn/article/4782",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4782_马来西亚清真寺遭恶心破坏地毯被泼不明液体混杂骨头与毛发嫌疑人已被逮捕.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:26:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "马来西亚",
+        "Maldives Muslim Travel"
+      ],
+      "content_hash": "b8dd4d1bbc9e24fa75b7441254e403b799834258d15a8d0f5c03aa059fe38988",
+      "word_count": 603
+    },
+    {
+      "id": "4781",
+      "title": "英国大选惊现“种族歧视”丑闻！改革党候选人语出惊人：穆斯林不能当英国人，难民应关进集中营？",
+      "filename": "content/4781_英国大选惊现种族歧视丑闻改革党候选人语出惊人穆斯林不能当英国人难民应关进集中营.md",
+      "original_url": "https://salaamalykum.com/cn/article/4781",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4781_英国大选惊现种族歧视丑闻改革党候选人语出惊人穆斯林不能当英国人难民应关进集中营.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:26:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "英国"
+      ],
+      "content_hash": "47088ea1027fc220520f9278b161b1e80a62a8fcdd18db366ce8fe64cf200d4f",
+      "word_count": 1032
+    },
+    {
+      "id": "4780",
+      "title": "巴基斯坦首都盛大举办国际先知传记节：一场跨越国界的精神文化盛宴",
+      "filename": "content/4780_巴基斯坦首都盛大举办国际先知传记节一场跨越国界的精神文化盛宴.md",
+      "original_url": "https://salaamalykum.com/cn/article/4780",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4780_巴基斯坦首都盛大举办国际先知传记节一场跨越国界的精神文化盛宴.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:25:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "先知传记",
+        "巴基斯坦"
+      ],
+      "content_hash": "56f8e88060648042736c7d041170920df0f1937cc14cc9f40ceb315a46b6a09b",
+      "word_count": 1145
+    },
+    {
+      "id": "4779",
+      "title": "日本清真寺遭纵火烧毁后，当地穆斯林社区绝地反击：新址规模翻倍，即将盛大重启！",
+      "filename": "content/4779_日本清真寺遭纵火烧毁后当地穆斯林社区绝地反击新址规模翻倍即将盛大重启.md",
+      "original_url": "https://salaamalykum.com/cn/article/4779",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4779_日本清真寺遭纵火烧毁后当地穆斯林社区绝地反击新址规模翻倍即将盛大重启.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:25:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "日本"
+      ],
+      "content_hash": "838eaa8f4306054f8c0649c10471af6f38dc31a7c930e849197fefe3148d1f15",
+      "word_count": 1218
+    },
+    {
+      "id": "4778",
+      "title": "德里大学校园风波：学生因要求恢复学生会遭警方扣留，现场爆发激烈对峙！",
+      "filename": "content/4778_德里大学校园风波学生因要求恢复学生会遭警方扣留现场爆发激烈对峙.md",
+      "original_url": "https://salaamalykum.com/cn/article/4778",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4778_德里大学校园风波学生因要求恢复学生会遭警方扣留现场爆发激烈对峙.html",
+      "author": "jacob",
+      "pub_date": "2026-10-19T08:25:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "印度"
+      ],
+      "content_hash": "170e67dd718fd4054d812a4b23659315b6f22c79f7e897fe859bb6a08a29931f",
+      "word_count": 949
+    },
+    {
+      "id": "4775",
+      "title": "巴林惊爆人权丑闻！什叶派教士遭秘密拘禁，民众怒吼：立即释放！",
+      "filename": "content/4775_巴林惊爆人权丑闻什叶派教士遭秘密拘禁民众怒吼立即释放.md",
+      "original_url": "https://salaamalykum.com/cn/article/4775",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4775_巴林惊爆人权丑闻什叶派教士遭秘密拘禁民众怒吼立即释放.html",
+      "author": "jacob",
+      "pub_date": "2026-10-17T00:48:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "巴林"
+      ],
+      "content_hash": "7d548d68e55b1df68cc870c0e746310bab0dfd467782000671ca8e1c5e30ad46",
+      "word_count": 916
+    },
+    {
+      "id": "4773",
+      "title": "炸锅了！奥地利强制14岁以下女孩摘头巾，学生课堂上集体“硬刚”，家长怒吼：这是在逼孩子！",
+      "filename": "content/4773_炸锅了奥地利强制14岁以下女孩摘头巾学生课堂上集体硬刚家长怒吼这是在逼孩子.md",
+      "original_url": "https://salaamalykum.com/cn/article/4773",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4773_炸锅了奥地利强制14岁以下女孩摘头巾学生课堂上集体硬刚家长怒吼这是在逼孩子.html",
+      "author": "jacob",
+      "pub_date": "2026-10-17T00:47:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教自由",
+        "Halal Hot Pot"
+      ],
+      "content_hash": "949cebacc31c9ea1eb2e4deed7e9777315bb01e8f380fe6751b2e3e50b31823c",
+      "word_count": 1616
+    },
+    {
+      "id": "4769",
+      "title": "备受瞩目的全球古兰经论坛，将于本周五在卡塔尔首都多哈正式拉开帷幕。",
+      "filename": "content/4769_备受瞩目的全球古兰经论坛将于本周五在卡塔尔首都多哈正式拉开帷幕.md",
+      "original_url": "https://salaamalykum.com/cn/article/4769",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4769_备受瞩目的全球古兰经论坛将于本周五在卡塔尔首都多哈正式拉开帷幕.html",
+      "author": "jacob",
+      "pub_date": "2026-10-17T00:45:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "卡塔尔",
+        "Underground Mosque"
+      ],
+      "content_hash": "787e3fc4ff2af01d5bc3c71e9ce1ff914912c12a1e6335b425a14511ac520c87",
+      "word_count": 1006
+    },
+    {
+      "id": "4767",
+      "title": "突发！教皇利奥十四世肺癌确诊，手术细节曝光！71岁高龄的他，未来行程还能继续吗？",
+      "filename": "content/4767_突发教皇利奥十四世肺癌确诊手术细节曝光71岁高龄的他未来行程还能继续吗.md",
+      "original_url": "https://salaamalykum.com/cn/article/4767",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4767_突发教皇利奥十四世肺癌确诊手术细节曝光71岁高龄的他未来行程还能继续吗.html",
+      "author": "jacob",
+      "pub_date": "2026-10-17T00:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Quanzhou History"
+      ],
+      "content_hash": "b8411ef100675cd17d24e11c943457595f31cdb0ac6850f8d222e7a32e76920f",
+      "word_count": 727
+    },
+    {
+      "id": "4766",
+      "title": "颠覆认知！美国学者惊人观点：伊斯兰“乌玛”不只穆斯林，为正义发声的你，也是其中一员！",
+      "filename": "content/4766_颠覆认知美国学者惊人观点伊斯兰乌玛不只穆斯林为正义发声的你也是其中一员.md",
+      "original_url": "https://salaamalykum.com/cn/article/4766",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4766_颠覆认知美国学者惊人观点伊斯兰乌玛不只穆斯林为正义发声的你也是其中一员.html",
+      "author": "jacob",
+      "pub_date": "2026-10-17T00:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "美国"
+      ],
+      "content_hash": "971b4b7ea94686698ce7ca76c2aba3462dbd850a3b6f41d573c832ae8c69a7c0",
+      "word_count": 1629
+    },
+    {
+      "id": "4746",
+      "title": "清真寺讲经也要管？印控克什米尔政坛炸锅：BJP被指把宗教当“实验室”",
+      "filename": "content/4746_清真寺讲经也要管印控克什米尔政坛炸锅BJP被指把宗教当实验室.md",
+      "original_url": "https://salaamalykum.com/cn/article/4746",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4746_清真寺讲经也要管印控克什米尔政坛炸锅BJP被指把宗教当实验室.html",
+      "author": "jacob",
+      "pub_date": "2026-10-14T18:29:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教自由",
+        "克什米尔"
+      ],
+      "content_hash": "987daba16fac543619d36fc93d57b03be81baf70b8c93b68292521f2d67b7e2f",
+      "word_count": 1845
+    },
+    {
+      "id": "4745",
+      "title": "跨越信仰的环保实验：五国高校联手，把“保护地球”写进课堂，这才是真正的全球共识！",
+      "filename": "content/4745_跨越信仰的环保实验五国高校联手把保护地球写进课堂这才是真正的全球共识.md",
+      "original_url": "https://salaamalykum.com/cn/article/4745",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4745_跨越信仰的环保实验五国高校联手把保护地球写进课堂这才是真正的全球共识.html",
+      "author": "jacob",
+      "pub_date": "2026-10-14T18:29:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "3dfecba3c4fa441349193c0593936b67d56c35092396d14847c01edc7bf2bcee",
+      "word_count": 1545
+    },
+    {
+      "id": "4744",
+      "title": "手按《古兰经》宣誓就职！索马里裔难民变身英国议员，这位“政坛黑马”到底什么来头？",
+      "filename": "content/4744_手按古兰经宣誓就职索马里裔难民变身英国议员这位政坛黑马到底什么来头.md",
+      "original_url": "https://salaamalykum.com/cn/article/4744",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4744_手按古兰经宣誓就职索马里裔难民变身英国议员这位政坛黑马到底什么来头.html",
+      "author": "jacob",
+      "pub_date": "2026-10-14T18:29:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "英国"
+      ],
+      "content_hash": "9a8deb4e8b449ffbd4e1074b8e2896b05ce8b1305fae4d50d69f1867476dd916",
+      "word_count": 849
+    },
+    {
+      "id": "4743",
+      "title": "阿塞拜疆校园“禁头巾令”引发众怒：数十人被捕，学生罢课抗议，家长扬言退学！",
+      "filename": "content/4743_阿塞拜疆校园禁头巾令引发众怒数十人被捕学生罢课抗议家长扬言退学.md",
+      "original_url": "https://salaamalykum.com/cn/article/4743",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4743_阿塞拜疆校园禁头巾令引发众怒数十人被捕学生罢课抗议家长扬言退学.html",
+      "author": "jacob",
+      "pub_date": "2026-10-14T18:29:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教自由",
+        "阿塞拜疆"
+      ],
+      "content_hash": "22ca6684e4c1f139a9c14b7548859358fa6fa55ba99ef9ad02960207a255c31a",
+      "word_count": 922
+    },
+    {
+      "id": "4742",
+      "title": "英国奥尔德姆清真寺获准扩建：专为女性打造的祈祷与社交空间，当地居民全票支持！",
+      "filename": "content/4742_英国奥尔德姆清真寺获准扩建专为女性打造的祈祷与社交空间当地居民全票支持.md",
+      "original_url": "https://salaamalykum.com/cn/article/4742",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4742_英国奥尔德姆清真寺获准扩建专为女性打造的祈祷与社交空间当地居民全票支持.html",
+      "author": "jacob",
+      "pub_date": "2026-10-14T18:29:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "社区发展",
+        "英国"
+      ],
+      "content_hash": "74544a3c7a89f7aa76380554a46d41895ac63c9b790c833ef544703745e69cf6",
+      "word_count": 1539
+    },
+    {
+      "id": "4739",
+      "title": "英国军情五处发出警告：反穆斯林极端思想正在“变质”，年轻人竟成恐怖袭击高危人群！",
+      "filename": "content/4739_英国军情五处发出警告反穆斯林极端思想正在变质年轻人竟成恐怖袭击高危人群.md",
+      "original_url": "https://salaamalykum.com/cn/article/4739",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4739_英国军情五处发出警告反穆斯林极端思想正在变质年轻人竟成恐怖袭击高危人群.html",
+      "author": "jacob",
+      "pub_date": "2026-10-14T18:28:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "英国"
+      ],
+      "content_hash": "31b138ece42e5d25e91e652c04c718d72ef581e5d58becd4040d4d97dbea5f54",
+      "word_count": 848
+    },
+    {
+      "id": "4738",
+      "title": "肯尼亚古兰经大赛圆满落幕：40位顶尖选手同台竞技，谁是最后的赢家？",
+      "filename": "content/4738_肯尼亚古兰经大赛圆满落幕40位顶尖选手同台竞技谁是最后的赢家.md",
+      "original_url": "https://salaamalykum.com/cn/article/4738",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4738_肯尼亚古兰经大赛圆满落幕40位顶尖选手同台竞技谁是最后的赢家.html",
+      "author": "jacob",
+      "pub_date": "2026-10-14T18:28:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Tehran Airport"
+      ],
+      "content_hash": "b1583704a2cc99995f929dc5dd7a23d3c70838cfb782f238c94ec0f3b2b7dad9",
+      "word_count": 712
+    },
+    {
+      "id": "4737",
+      "title": "阿塞拜疆学校禁戴头巾引争议，伊拉克宗教领袖萨德尔发声：这是变相的极端主义！",
+      "filename": "content/4737_阿塞拜疆学校禁戴头巾引争议伊拉克宗教领袖萨德尔发声这是变相的极端主义.md",
+      "original_url": "https://salaamalykum.com/cn/article/4737",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4737_阿塞拜疆学校禁戴头巾引争议伊拉克宗教领袖萨德尔发声这是变相的极端主义.html",
+      "author": "jacob",
+      "pub_date": "2026-10-14T18:28:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教自由",
+        "阿塞拜疆"
+      ],
+      "content_hash": "d7b839111f2be23b75e57c31dae65d11233b72672242cd3b73d863e12805e11d",
+      "word_count": 1122
+    },
+    {
+      "id": "4736",
+      "title": "突发！美国司法部盯上国会女议员奥马尔，家人遭传唤，家中文件被搜查，特朗普亲自下场指控！",
+      "filename": "content/4736_突发美国司法部盯上国会女议员奥马尔家人遭传唤家中文件被搜查特朗普亲自下场指控.md",
+      "original_url": "https://salaamalykum.com/cn/article/4736",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4736_突发美国司法部盯上国会女议员奥马尔家人遭传唤家中文件被搜查特朗普亲自下场指控.html",
+      "author": "jacob",
+      "pub_date": "2026-10-14T18:28:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "美国政治"
+      ],
+      "content_hash": "938fa580021e6b0121a2e2f861d6b6173e5bb8edea27c88a69106ef6ad6497a5",
+      "word_count": 763
+    },
+    {
+      "id": "4735",
+      "title": "从伊斯兰文明到世俗化国家：阿塞拜疆为何在“头巾禁令”上爆发激烈冲突？",
+      "filename": "content/4735_从伊斯兰文明到世俗化国家阿塞拜疆为何在头巾禁令上爆发激烈冲突.md",
+      "original_url": "https://salaamalykum.com/cn/article/4735",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4735_从伊斯兰文明到世俗化国家阿塞拜疆为何在头巾禁令上爆发激烈冲突.html",
+      "author": "jacob",
+      "pub_date": "2026-10-14T18:28:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊斯兰文化"
+      ],
+      "content_hash": "850129bf807fdb483c5689be7b13d8366fdf1cb93387df7fda64699d5764c785",
+      "word_count": 3110
+    },
+    {
+      "id": "4734",
+      "title": "侮辱《古兰经》还拍视频炫耀？阿尔及利亚两名女子被警方火速逮捕！",
+      "filename": "content/4734_侮辱古兰经还拍视频炫耀阿尔及利亚两名女子被警方火速逮捕.md",
+      "original_url": "https://salaamalykum.com/cn/article/4734",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4734_侮辱古兰经还拍视频炫耀阿尔及利亚两名女子被警方火速逮捕.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:49:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "阿尔及利亚"
+      ],
+      "content_hash": "6e6ff799d44ecfa0b8c5d520a1a62f13e3b61166b455eb37126daf176739fac6",
+      "word_count": 718
+    },
+    {
+      "id": "4733",
+      "title": "迪拜航空惊魂：副驾驶欲驾机撞向特拉维夫，墨尔本清真寺卷入风波，伊玛目发声回应！",
+      "filename": "content/4733_迪拜航空惊魂副驾驶欲驾机撞向特拉维夫墨尔本清真寺卷入风波伊玛目发声回应.md",
+      "original_url": "https://salaamalykum.com/cn/article/4733",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4733_迪拜航空惊魂副驾驶欲驾机撞向特拉维夫墨尔本清真寺卷入风波伊玛目发声回应.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:48:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "航空安全"
+      ],
+      "content_hash": "c37bb0fe721d6a96fc982eb0a2d475f646e650a4b4154b051f43499c760c5b87",
+      "word_count": 1691
+    },
+    {
+      "id": "4732",
+      "title": "纳维·皮莱斩获诺贝尔和平奖，印度政府为何集体“失声”？背后真相引爆舆论争议",
+      "filename": "content/4732_纳维皮莱斩获诺贝尔和平奖印度政府为何集体失声背后真相引爆舆论争议.md",
+      "original_url": "https://salaamalykum.com/cn/article/4732",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4732_纳维皮莱斩获诺贝尔和平奖印度政府为何集体失声背后真相引爆舆论争议.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:48:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "305c187de471fca6c9c07204a7e2069af964512e61e2f8df7f30b33bcb307d91",
+      "word_count": 1279
+    },
+    {
+      "id": "4731",
+      "title": "地震预警新思路！印尼联手日本，要把清真寺的大喇叭变成“救命神器”？",
+      "filename": "content/4731_地震预警新思路印尼联手日本要把清真寺的大喇叭变成救命神器.md",
+      "original_url": "https://salaamalykum.com/cn/article/4731",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4731_地震预警新思路印尼联手日本要把清真寺的大喇叭变成救命神器.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:47:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "印尼"
+      ],
+      "content_hash": "07c7904aeb80d9c9437aa6f10e90172ef030b5a3830537cb24a2429251af1a5f",
+      "word_count": 1183
+    },
+    {
+      "id": "4730",
+      "title": "巴基斯坦要建“古兰经学院”了？当地政府召集各界大咖，商讨未来蓝图！",
+      "filename": "content/4730_巴基斯坦要建古兰经学院了当地政府召集各界大咖商讨未来蓝图.md",
+      "original_url": "https://salaamalykum.com/cn/article/4730",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4730_巴基斯坦要建古兰经学院了当地政府召集各界大咖商讨未来蓝图.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:47:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "巴基斯坦"
+      ],
+      "content_hash": "914575b0201b00c4230e5b1b76db5419ff0639d49c62ace1acb1b9725e84653a",
+      "word_count": 807
+    },
+    {
+      "id": "4729",
+      "title": "伦敦清真论坛开幕：一场巴勒斯坦风味早餐背后的沉重呼吁，加沙局势引发全球关注",
+      "filename": "content/4729_伦敦清真论坛开幕一场巴勒斯坦风味早餐背后的沉重呼吁加沙局势引发全球关注.md",
+      "original_url": "https://salaamalykum.com/cn/article/4729",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4729_伦敦清真论坛开幕一场巴勒斯坦风味早餐背后的沉重呼吁加沙局势引发全球关注.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:46:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "巴以冲突",
+        "Prayer"
+      ],
+      "content_hash": "59f082cd336a83185ee107901ebcd4d98c65735829e86fcc5fee943f18aa3d3e",
+      "word_count": 846
+    },
+    {
+      "id": "4728",
+      "title": "泰王夫妇亲赴北大年府！亲自为全国古兰经诵读大赛优胜者颁奖，现场画面曝光",
+      "filename": "content/4728_泰王夫妇亲赴北大年府亲自为全国古兰经诵读大赛优胜者颁奖现场画面曝光.md",
+      "original_url": "https://salaamalykum.com/cn/article/4728",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4728_泰王夫妇亲赴北大年府亲自为全国古兰经诵读大赛优胜者颁奖现场画面曝光.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:46:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "bdef4dc11bf21b31a038315c377a92224ae353b326199ad20f733c3c8c4d1182",
+      "word_count": 1408
+    },
+    {
+      "id": "4725",
+      "title": "肯尼亚掀起“古兰经”学习热潮！内罗毕决赛现场直击，40位顶尖选手角逐最高荣誉",
+      "filename": "content/4725_肯尼亚掀起古兰经学习热潮内罗毕决赛现场直击40位顶尖选手角逐最高荣誉.md",
+      "original_url": "https://salaamalykum.com/cn/article/4725",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4725_肯尼亚掀起古兰经学习热潮内罗毕决赛现场直击40位顶尖选手角逐最高荣誉.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Tehran Airport"
+      ],
+      "content_hash": "41dad9f49548ae91d6c567c56954b8a3885ec7516b6bf9c43a7cd978bbb32b53",
+      "word_count": 936
+    },
+    {
+      "id": "4724",
+      "title": "波兰深山里的“活化石”：31国大使齐聚，揭秘600年历史的神秘穆斯林村落",
+      "filename": "content/4724_波兰深山里的活化石31国大使齐聚揭秘600年历史的神秘穆斯林村落.md",
+      "original_url": "https://salaamalykum.com/cn/article/4724",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4724_波兰深山里的活化石31国大使齐聚揭秘600年历史的神秘穆斯林村落.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "文化遗产",
+        "波兰"
+      ],
+      "content_hash": "c5f4df27d42863907f6fe7aa10f8706a6b3232655d42594b8b3c61c97e4851e3",
+      "word_count": 1474
+    },
+    {
+      "id": "4722",
+      "title": "利比亚百年古迹要“大修”了！奥斯曼帝国时期的地标清真寺，能否重现往日辉煌？",
+      "filename": "content/4722_利比亚百年古迹要大修了奥斯曼帝国时期的地标清真寺能否重现往日辉煌.md",
+      "original_url": "https://salaamalykum.com/cn/article/4722",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4722_利比亚百年古迹要大修了奥斯曼帝国时期的地标清真寺能否重现往日辉煌.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:44:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Changi Airport"
+      ],
+      "content_hash": "e395f723db4c2f7467de714daffa15ab56bb33c02726921c09284c552d5bd0d0",
+      "word_count": 795
+    },
+    {
+      "id": "4721",
+      "title": "探秘全球最大古兰经印制中心！250名海外贵宾齐聚麦地那，见证信仰与科技的碰撞",
+      "filename": "content/4721_探秘全球最大古兰经印制中心250名海外贵宾齐聚麦地那见证信仰与科技的碰撞.md",
+      "original_url": "https://salaamalykum.com/cn/article/4721",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4721_探秘全球最大古兰经印制中心250名海外贵宾齐聚麦地那见证信仰与科技的碰撞.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:43:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "麦地那"
+      ],
+      "content_hash": "b600ad5c7fc8f69423612226d8d0dbaebdd122fc8ea87cbdfcdf01e129417383",
+      "word_count": 585
+    },
+    {
+      "id": "4720",
+      "title": "伊拉克库尔德地区举办盛大表彰仪式：30多位古兰经诵读者与背诵者获殊荣，现场气氛感人！",
+      "filename": "content/4720_伊拉克库尔德地区举办盛大表彰仪式30多位古兰经诵读者与背诵者获殊荣现场气氛感人.md",
+      "original_url": "https://salaamalykum.com/cn/article/4720",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4720_伊拉克库尔德地区举办盛大表彰仪式30多位古兰经诵读者与背诵者获殊荣现场气氛感人.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:43:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊拉克",
+        "库尔德"
+      ],
+      "content_hash": "014d169c5cc6c71204e099c75a3bafe38ad810281d31d5c0d2a05b44c7b4fc0a",
+      "word_count": 1186
+    },
+    {
+      "id": "4718",
+      "title": "美国国会山外爆发大规模抗议！民众怒吼：停止资助以色列，我们要面包不要战争！",
+      "filename": "content/4718_美国国会山外爆发大规模抗议民众怒吼停止资助以色列我们要面包不要战争.md",
+      "original_url": "https://salaamalykum.com/cn/article/4718",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4718_美国国会山外爆发大规模抗议民众怒吼停止资助以色列我们要面包不要战争.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:42:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "巴以冲突",
+        "美国"
+      ],
+      "content_hash": "4b4078d9bcfa2dc4b4bf94dd24ad916910d5accaec0f3f3f08e76b8e18e9167d",
+      "word_count": 911
+    },
+    {
+      "id": "4717",
+      "title": "震惊国际！以色列医疗人员被控虐待巴勒斯坦囚犯，海因德·拉贾布基金会正式向国际刑事法院提起诉讼",
+      "filename": "content/4717_震惊国际以色列医疗人员被控虐待巴勒斯坦囚犯海因德拉贾布基金会正式向国际刑事法院提起诉讼.md",
+      "original_url": "https://salaamalykum.com/cn/article/4717",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4717_震惊国际以色列医疗人员被控虐待巴勒斯坦囚犯海因德拉贾布基金会正式向国际刑事法院提起诉讼.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:41:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "巴以冲突"
+      ],
+      "content_hash": "2738c63b6c069e93548bd1612f613aa88433c5822346450efe5170f2925310c5",
+      "word_count": 1752
+    },
+    {
+      "id": "4716",
+      "title": "不只教经书！马来西亚与埃及达成重磅协议：全面进军AI、医学与尖端科技领域",
+      "filename": "content/4716_不只教经书马来西亚与埃及达成重磅协议全面进军AI医学与尖端科技领域.md",
+      "original_url": "https://salaamalykum.com/cn/article/4716",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4716_不只教经书马来西亚与埃及达成重磅协议全面进军AI医学与尖端科技领域.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:41:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "马来西亚",
+        "埃及"
+      ],
+      "content_hash": "d52d6b9281d5f94159156386eaeddf37e98e89fe039eb33e1d80615adadb704f",
+      "word_count": 1053
+    },
+    {
+      "id": "4715",
+      "title": "埃及版“好声音”来了！这档火爆全国的古兰经诵读大赛，为何让年轻人如此上头？",
+      "filename": "content/4715_埃及版好声音来了这档火爆全国的古兰经诵读大赛为何让年轻人如此上头.md",
+      "original_url": "https://salaamalykum.com/cn/article/4715",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4715_埃及版好声音来了这档火爆全国的古兰经诵读大赛为何让年轻人如此上头.html",
+      "author": "jacob",
+      "pub_date": "2026-10-12T21:41:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "埃及",
+        "古兰经诵读"
+      ],
+      "content_hash": "43036b9d7cbdcfe72f70b630267344fad01bc77bdd7b9ca43a6751b42cc85ae6",
+      "word_count": 859
+    },
+    {
+      "id": "4714",
+      "title": "摩洛哥重磅发布！《古兰经》首个官方阿马齐格语译本问世，历时多年心血结晶",
+      "filename": "content/4714_摩洛哥重磅发布古兰经首个官方阿马齐格语译本问世历时多年心血结晶.md",
+      "original_url": "https://salaamalykum.com/cn/article/4714",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4714_摩洛哥重磅发布古兰经首个官方阿马齐格语译本问世历时多年心血结晶.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:19:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊斯兰文化",
+        "Kampong Glam"
+      ],
+      "content_hash": "fbcdd32cb89fcb6572737679cc7a3e71c99a618dd2d10bf460f5f734674edd5c",
+      "word_count": 2919
+    },
+    {
+      "id": "4713",
+      "title": "马来西亚总理安瓦尔：别让读经只停留在“背诵”！穆斯林必须拥抱AI，但信仰不能丢",
+      "filename": "content/4713_马来西亚总理安瓦尔别让读经只停留在背诵穆斯林必须拥抱AI但信仰不能丢.md",
+      "original_url": "https://salaamalykum.com/cn/article/4713",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4713_马来西亚总理安瓦尔别让读经只停留在背诵穆斯林必须拥抱AI但信仰不能丢.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:19:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "马来西亚"
+      ],
+      "content_hash": "52d039821c7d546c3c13df5e1c0eabc96791094791dff5ad62f57a3d53f6c95d",
+      "word_count": 2009
+    },
+    {
+      "id": "4712",
+      "title": "第34届德黑兰国际古兰经博览会筹备工作正式启动。",
+      "filename": "content/4712_第34届德黑兰国际古兰经博览会筹备工作正式启动.md",
+      "original_url": "https://salaamalykum.com/cn/article/4712",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4712_第34届德黑兰国际古兰经博览会筹备工作正式启动.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:19:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "德黑兰",
+        "伊朗"
+      ],
+      "content_hash": "96b9094647912cbecb4c2d37b67f03cb59c60b42fa5301cef9e30454fc261a95",
+      "word_count": 1032
+    },
+    {
+      "id": "4709",
+      "title": "加拿大卡尔加里正式宣布：十月定为“伊斯兰历史月”，全城共庆多元文化魅力！",
+      "filename": "content/4709_加拿大卡尔加里正式宣布十月定为伊斯兰历史月全城共庆多元文化魅力.md",
+      "original_url": "https://salaamalykum.com/cn/article/4709",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4709_加拿大卡尔加里正式宣布十月定为伊斯兰历史月全城共庆多元文化魅力.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:18:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "多元文化",
+        "加拿大"
+      ],
+      "content_hash": "b82e108c0e4dd8a668900bcb8b033051b988d5b66238e45a95285405ba9bd338",
+      "word_count": 1021
+    },
+    {
+      "id": "4708",
+      "title": "马来西亚国际古兰经诵读与背诵大会（MTHQA）正式拉开帷幕",
+      "filename": "content/4708_马来西亚国际古兰经诵读与背诵大会MTHQA正式拉开帷幕.md",
+      "original_url": "https://salaamalykum.com/cn/article/4708",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4708_马来西亚国际古兰经诵读与背诵大会MTHQA正式拉开帷幕.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:18:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "马来西亚",
+        "古兰经诵读"
+      ],
+      "content_hash": "a86d6ca47a77fe637a22a80703983d3084f148a221d2c36728c05c0d638f3b31",
+      "word_count": 729
+    },
+    {
+      "id": "4707",
+      "title": "3个月涌入50万人！这座位于麦地那的神秘“印经工厂”，到底有什么魔力？",
+      "filename": "content/4707_3个月涌入50万人这座位于麦地那的神秘印经工厂到底有什么魔力.md",
+      "original_url": "https://salaamalykum.com/cn/article/4707",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4707_3个月涌入50万人这座位于麦地那的神秘印经工厂到底有什么魔力.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:18:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "麦地那"
+      ],
+      "content_hash": "d16de05e82d7a52e987da89879cb06238f878747fa49dbbc6701294cc93947dc",
+      "word_count": 642
+    },
+    {
+      "id": "4706",
+      "title": "纽约市长公开炮轰：川普政府是加沙种族灭绝的“帮凶”！要求立即停止对以军援",
+      "filename": "content/4706_纽约市长公开炮轰川普政府是加沙种族灭绝的帮凶要求立即停止对以军援.md",
+      "original_url": "https://salaamalykum.com/cn/article/4706",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4706_纽约市长公开炮轰川普政府是加沙种族灭绝的帮凶要求立即停止对以军援.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:18:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "美国政治",
+        "加沙局势"
+      ],
+      "content_hash": "e579b80266d43f642de2f270e5f268441aa963c05b9f6ee631109ecd3abb33c5",
+      "word_count": 953
+    },
+    {
+      "id": "4705",
+      "title": "骑行113公里只为建座清真寺！英国这群穆斯林小哥的操作，让当地人彻底破防了",
+      "filename": "content/4705_骑行113公里只为建座清真寺英国这群穆斯林小哥的操作让当地人彻底破防了.md",
+      "original_url": "https://salaamalykum.com/cn/article/4705",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4705_骑行113公里只为建座清真寺英国这群穆斯林小哥的操作让当地人彻底破防了.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:18:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World"
+      ],
+      "content_hash": "387cd268083d3e077482d7e2a7a007aa948b18aaa75d559d645396df5edcc7d5",
+      "word_count": 1421
+    },
+    {
+      "id": "4704",
+      "title": "太暖了！阿尔巴尼亚天主教商人在高速路旁为穆斯林建祈祷室，这才是真正的宗教包容！",
+      "filename": "content/4704_太暖了阿尔巴尼亚天主教商人在高速路旁为穆斯林建祈祷室这才是真正的宗教包容.md",
+      "original_url": "https://salaamalykum.com/cn/article/4704",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4704_太暖了阿尔巴尼亚天主教商人在高速路旁为穆斯林建祈祷室这才是真正的宗教包容.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:18:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教和谐",
+        "阿尔巴尼亚"
+      ],
+      "content_hash": "341a690e39584ee3048b8ca5331124eeba9619fb4405a29f7f8c8b5ce60fbb2c",
+      "word_count": 1010
+    },
+    {
+      "id": "4703",
+      "title": "孟加拉国政府重磅承诺：全力支持古兰经教育，让背诵者获得应有荣誉！",
+      "filename": "content/4703_孟加拉国政府重磅承诺全力支持古兰经教育让背诵者获得应有荣誉.md",
+      "original_url": "https://salaamalykum.com/cn/article/4703",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4703_孟加拉国政府重磅承诺全力支持古兰经教育让背诵者获得应有荣誉.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:18:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教教育",
+        "孟加拉"
+      ],
+      "content_hash": "3465048322d7ee937bb08ff0bb47574bf491ae85bc3e90a126d55f3f3bc45109",
+      "word_count": 1324
+    },
+    {
+      "id": "4702",
+      "title": "美参议员语出惊人：以色列在加沙违反国际法，绝不为限制对以军售投票道歉！",
+      "filename": "content/4702_美参议员语出惊人以色列在加沙违反国际法绝不为限制对以军售投票道歉.md",
+      "original_url": "https://salaamalykum.com/cn/article/4702",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4702_美参议员语出惊人以色列在加沙违反国际法绝不为限制对以军售投票道歉.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:18:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "中东局势",
+        "美国政治"
+      ],
+      "content_hash": "a4bd1ecca0cb984a4f8ade5aaec0141dc2d66193997bca8ab92d41a7d47b72a7",
+      "word_count": 934
+    },
+    {
+      "id": "4700",
+      "title": "马来西亚爆发大规模抗议！数千人走上吉隆坡街头，怒斥加沙种族灭绝，要求国际社会停止沉默",
+      "filename": "content/4700_马来西亚爆发大规模抗议数千人走上吉隆坡街头怒斥加沙种族灭绝要求国际社会停止沉默.md",
+      "original_url": "https://salaamalykum.com/cn/article/4700",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4700_马来西亚爆发大规模抗议数千人走上吉隆坡街头怒斥加沙种族灭绝要求国际社会停止沉默.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:17:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "马来西亚",
+        "巴以冲突"
+      ],
+      "content_hash": "6ce80e2c9a5f079b24611389f11b13b60bedbca915713eafa76a0b6d361177e0",
+      "word_count": 705
+    },
+    {
+      "id": "4697",
+      "title": "第66届马来西亚国际古兰经诵读与背诵大赛，在吉隆坡世界贸易中心落下帷幕",
+      "filename": "content/4697_第66届马来西亚国际古兰经诵读与背诵大赛在吉隆坡世界贸易中心落下帷幕.md",
+      "original_url": "https://salaamalykum.com/cn/article/4697",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4697_第66届马来西亚国际古兰经诵读与背诵大赛在吉隆坡世界贸易中心落下帷幕.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:17:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "马来西亚"
+      ],
+      "content_hash": "16587b963da6ad9772b6121c85d619c8687b943967f352084d1e17ba29ec5769",
+      "word_count": 2515
+    },
+    {
+      "id": "4696",
+      "title": "2026诺贝尔和平奖揭晓！巴勒斯坦为何力挺这位南非女法官？她曾揭露了哪些惊人真相？",
+      "filename": "content/4696_2026诺贝尔和平奖揭晓巴勒斯坦为何力挺这位南非女法官她曾揭露了哪些惊人真相.md",
+      "original_url": "https://salaamalykum.com/cn/article/4696",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4696_2026诺贝尔和平奖揭晓巴勒斯坦为何力挺这位南非女法官她曾揭露了哪些惊人真相.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:17:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "巴以冲突"
+      ],
+      "content_hash": "880d14bc5c1f290a42704ec1de2db7442421ba3f2eea413b9a97ab715c7965ce",
+      "word_count": 1177
+    },
+    {
+      "id": "4695",
+      "title": "欧洲清真认证界的“天花板”？这家米兰机构凭什么斩获2026印尼清真大奖！",
+      "filename": "content/4695_欧洲清真认证界的天花板这家米兰机构凭什么斩获2026印尼清真大奖.md",
+      "original_url": "https://salaamalykum.com/cn/article/4695",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4695_欧洲清真认证界的天花板这家米兰机构凭什么斩获2026印尼清真大奖.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:17:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "清真产业"
+      ],
+      "content_hash": "7ca2d01d19337e0910110dc166b669b88271fe900d07eb713e05a07cf761deb9",
+      "word_count": 2018
+    },
+    {
+      "id": "4694",
+      "title": "彻底撕破脸！美国宣布对国际刑事法院实施全面制裁：要么法院解散，要么我们终结它",
+      "filename": "content/4694_彻底撕破脸美国宣布对国际刑事法院实施全面制裁要么法院解散要么我们终结它.md",
+      "original_url": "https://salaamalykum.com/cn/article/4694",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4694_彻底撕破脸美国宣布对国际刑事法院实施全面制裁要么法院解散要么我们终结它.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:17:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "国际法",
+        "地缘政治"
+      ],
+      "content_hash": "310525fc18d2d65fca1c1604181cb845c499c533742d64199188dd17e069d7e3",
+      "word_count": 2595
+    },
+    {
+      "id": "4693",
+      "title": "特朗普喊话“反击”索马里社区，明尼苏达州清真寺紧急升级安保，当地人心惶惶",
+      "filename": "content/4693_特朗普喊话反击索马里社区明尼苏达州清真寺紧急升级安保当地人心惶惶.md",
+      "original_url": "https://salaamalykum.com/cn/article/4693",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4693_特朗普喊话反击索马里社区明尼苏达州清真寺紧急升级安保当地人心惶惶.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:17:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "明尼苏达",
+        "美国政治"
+      ],
+      "content_hash": "b9389316624cd911dddbd0ca58eca91e00d2059bfd9ad437335a1dccb73bcc2f",
+      "word_count": 1052
+    },
+    {
+      "id": "4692",
+      "title": "别只把《古兰经》当成“朗诵材料”！马来西亚高官喊话：真正的信仰，藏在你的每一次抉择里",
+      "filename": "content/4692_别只把古兰经当成朗诵材料马来西亚高官喊话真正的信仰藏在你的每一次抉择里.md",
+      "original_url": "https://salaamalykum.com/cn/article/4692",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4692_别只把古兰经当成朗诵材料马来西亚高官喊话真正的信仰藏在你的每一次抉择里.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:17:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊斯兰文化",
+        "马来西亚"
+      ],
+      "content_hash": "799c952bad4cf00e8d1faa1072c35bc899b4115b0778a9b61f9b6024f84770e6",
+      "word_count": 1060
+    },
+    {
+      "id": "4691",
+      "title": "科索沃百年古迹重焕新生！这座15世纪清真寺启动全面修缮，背后故事大有来头",
+      "filename": "content/4691_科索沃百年古迹重焕新生这座15世纪清真寺启动全面修缮背后故事大有来头.md",
+      "original_url": "https://salaamalykum.com/cn/article/4691",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4691_科索沃百年古迹重焕新生这座15世纪清真寺启动全面修缮背后故事大有来头.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:17:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Changi Airport",
+        "伊斯兰建筑"
+      ],
+      "content_hash": "6f51dcc37294560d9445c36cae12548d3ae6ca3078bec857d73a238be7a4b339",
+      "word_count": 740
+    },
+    {
+      "id": "4690",
+      "title": "尘封40年！希腊这座奥斯曼古迹终于“重见天日”，变身网红打卡地，免费开放两周！",
+      "filename": "content/4690_尘封40年希腊这座奥斯曼古迹终于重见天日变身网红打卡地免费开放两周.md",
+      "original_url": "https://salaamalykum.com/cn/article/4690",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4690_尘封40年希腊这座奥斯曼古迹终于重见天日变身网红打卡地免费开放两周.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:16:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Changi Airport"
+      ],
+      "content_hash": "68546bb20eb92cce896ff4cfd5b070f90b6f76f6ed764de7364f719d1a44c033",
+      "word_count": 1095
+    },
+    {
+      "id": "4689",
+      "title": "当宗教遇上全球化：维也纳即将举办重磅国际对话，探讨人类文明的未来！",
+      "filename": "content/4689_当宗教遇上全球化维也纳即将举办重磅国际对话探讨人类文明的未来.md",
+      "original_url": "https://salaamalykum.com/cn/article/4689",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4689_当宗教遇上全球化维也纳即将举办重磅国际对话探讨人类文明的未来.html",
+      "author": "jacob",
+      "pub_date": "2026-10-10T23:16:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "跨宗教对话",
+        "Tunisia Medina"
+      ],
+      "content_hash": "c8ed945556761443b101a39d107c822b42b7a550d38770f1fa72a00138d03309",
+      "word_count": 2071
+    },
+    {
+      "id": "4549",
+      "title": "立陶宛穆斯林遭针对！焚烧古兰经、猪头闹场，欧洲穆斯林联盟怒了：这是在挑战社会底线",
+      "filename": "content/4549_立陶宛穆斯林遭针对焚烧古兰经猪头闹场欧洲穆斯林联盟怒了这是在挑战社会底线.md",
+      "original_url": "https://salaamalykum.com/cn/article/4549",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4549_立陶宛穆斯林遭针对焚烧古兰经猪头闹场欧洲穆斯林联盟怒了这是在挑战社会底线.html",
+      "author": "jacob",
+      "pub_date": "2026-10-07T05:49:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教自由",
+        "Maliki Fiqh"
+      ],
+      "content_hash": "c678ccee5bd5f2a5155f7dedb08b05283a6ab6d1286016443969c9b59f1ba77f",
+      "word_count": 1054
+    },
+    {
+      "id": "4547",
+      "title": "乌干达开启“母语版”古兰经翻译计划：让北部的穆斯林能用家乡话读懂经典",
+      "filename": "content/4547_乌干达开启母语版古兰经翻译计划让北部的穆斯林能用家乡话读懂经典.md",
+      "original_url": "https://salaamalykum.com/cn/article/4547",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4547_乌干达开启母语版古兰经翻译计划让北部的穆斯林能用家乡话读懂经典.html",
+      "author": "jacob",
+      "pub_date": "2026-10-07T05:49:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Al_Abrar Mosque"
+      ],
+      "content_hash": "83e83d7cc7dd29a5c35076c9956d8a546a7e69a40d8bfe54fa5684ebb43b618a",
+      "word_count": 1015
+    },
+    {
+      "id": "4546",
+      "title": "保加利亚著名学者茨维坦·特奥法诺夫翻译《古兰经》的传奇历程",
+      "filename": "content/4546_保加利亚著名学者茨维坦特奥法诺夫翻译古兰经的传奇历程.md",
+      "original_url": "https://salaamalykum.com/cn/article/4546",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4546_保加利亚著名学者茨维坦特奥法诺夫翻译古兰经的传奇历程.html",
+      "author": "jacob",
+      "pub_date": "2026-10-07T05:48:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "保加利亚"
+      ],
+      "content_hash": "ba03b0ec8c8b8b9c84658cbeec8439477c30bca9640a311d047da923557bd17c",
+      "word_count": 2625
+    },
+    {
+      "id": "4545",
+      "title": "爱尔兰特别刑事法庭审理了一起令人震惊的恐怖袭击未遂案",
+      "filename": "content/4545_爱尔兰特别刑事法庭审理了一起令人震惊的恐怖袭击未遂案.md",
+      "original_url": "https://salaamalykum.com/cn/article/4545",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4545_爱尔兰特别刑事法庭审理了一起令人震惊的恐怖袭击未遂案.html",
+      "author": "jacob",
+      "pub_date": "2026-10-07T05:48:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Maldives Muslim Travel",
+        "Chulia Muslims"
+      ],
+      "content_hash": "aff94bfafa4549e1a9eaf04a9c0e0d980183c104ef6a32310023612ac0c7aae0",
+      "word_count": 1626
+    },
+    {
+      "id": "4544",
+      "title": "第二届“古兰经与人类知识”研讨会在多哈开幕",
+      "filename": "content/4544_第二届古兰经与人类知识研讨会在多哈开幕.md",
+      "original_url": "https://salaamalykum.com/cn/article/4544",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4544_第二届古兰经与人类知识研讨会在多哈开幕.html",
+      "author": "jacob",
+      "pub_date": "2026-10-07T05:48:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Underground Mosque",
+        "卡塔尔"
+      ],
+      "content_hash": "83de27fc38793c0c2d4978ee77d3b0ecb9bb371a502fb33a62fbebc935db083e",
+      "word_count": 1121
+    },
+    {
+      "id": "4543",
+      "title": "第66届国际古兰经诵读大赛在吉隆坡震撼开幕",
+      "filename": "content/4543_第66届国际古兰经诵读大赛在吉隆坡震撼开幕.md",
+      "original_url": "https://salaamalykum.com/cn/article/4543",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4543_第66届国际古兰经诵读大赛在吉隆坡震撼开幕.html",
+      "author": "jacob",
+      "pub_date": "2026-10-07T05:48:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "马来西亚"
+      ],
+      "content_hash": "f4cf846cc4e6e38d38f43399fbb4b1530621c51498182fc96b2d2e4543ef3da4",
+      "word_count": 901
+    },
+    {
+      "id": "4541",
+      "title": "塞浦路斯古迹焕发新生：利马索尔百年清真寺修缮完毕",
+      "filename": "content/4541_塞浦路斯古迹焕发新生利马索尔百年清真寺修缮完毕.md",
+      "original_url": "https://salaamalykum.com/cn/article/4541",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4541_塞浦路斯古迹焕发新生利马索尔百年清真寺修缮完毕.html",
+      "author": "jacob",
+      "pub_date": "2026-10-05T19:43:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Muslim Transit",
+        "Changi Airport"
+      ],
+      "content_hash": "4a27ec1b6a145a7b269534e2cb150629973aea7a863e864e6d214318edb7e729",
+      "word_count": 714
+    },
+    {
+      "id": "4539",
+      "title": "阿克萨清真寺不仅是地标！阿尔及利亚学者深度解读：为何它是伊斯兰文明追求正义的核心？",
+      "filename": "content/4539_阿克萨清真寺不仅是地标阿尔及利亚学者深度解读为何它是伊斯兰文明追求正义的核心.md",
+      "original_url": "https://salaamalykum.com/cn/article/4539",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4539_阿克萨清真寺不仅是地标阿尔及利亚学者深度解读为何它是伊斯兰文明追求正义的核心.html",
+      "author": "jacob",
+      "pub_date": "2026-10-05T19:38:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "阿克萨清真寺",
+        "伊斯兰文明"
+      ],
+      "content_hash": "985c845dd73c4a7bed3cbcb415cb85af64047043107d925bb8de9dde1d2ca7c1",
+      "word_count": 3029
+    },
+    {
+      "id": "4538",
+      "title": "伊朗总统佩泽希齐扬发声：祈祷不仅是个人修行，更是重塑社会道德的“强心剂”",
+      "filename": "content/4538_伊朗总统佩泽希齐扬发声祈祷不仅是个人修行更是重塑社会道德的强心剂.md",
+      "original_url": "https://salaamalykum.com/cn/article/4538",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4538_伊朗总统佩泽希齐扬发声祈祷不仅是个人修行更是重塑社会道德的强心剂.html",
+      "author": "jacob",
+      "pub_date": "2026-10-05T19:38:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Halal Restaurant Beijing",
+        "伊朗"
+      ],
+      "content_hash": "802ba2208fa6f57c1c69118c96fab38dea6f56821d414c1e209c506eaab6312c",
+      "word_count": 1540
+    },
+    {
+      "id": "4535",
+      "title": "美国少年被以色列关押近4个月！CAIR怒斥：白宫还要装聋作哑多久？",
+      "filename": "content/4535_美国少年被以色列关押近4个月CAIR怒斥白宫还要装聋作哑多久.md",
+      "original_url": "https://salaamalykum.com/cn/article/4535",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4535_美国少年被以色列关押近4个月CAIR怒斥白宫还要装聋作哑多久.html",
+      "author": "jacob",
+      "pub_date": "2026-10-05T19:37:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "人权观察",
+        "中东局势"
+      ],
+      "content_hash": "77a4da95476841e33319d9776ae033efa16bd3e2c399d671abf4f3ef928ae2c0",
+      "word_count": 1021
+    },
+    {
+      "id": "4532",
+      "title": "瑞典斯德哥尔摩爆发大规模抗议：数百人走上街头，怒斥以色列对巴勒斯坦及黎巴嫩的军事行动！",
+      "filename": "content/4532_瑞典斯德哥尔摩爆发大规模抗议数百人走上街头怒斥以色列对巴勒斯坦及黎巴嫩的军事行动.md",
+      "original_url": "https://salaamalykum.com/cn/article/4532",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4532_瑞典斯德哥尔摩爆发大规模抗议数百人走上街头怒斥以色列对巴勒斯坦及黎巴嫩的军事行动.html",
+      "author": "jacob",
+      "pub_date": "2026-10-05T19:36:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "中东局势",
+        "瑞典"
+      ],
+      "content_hash": "027409095dfc098dcd4795d53c0a5f4202c567f5292d0e7fae20d56cb6f525be",
+      "word_count": 1066
+    },
+    {
+      "id": "4530",
+      "title": "泰国年轻人玩转“跨界”：440名南方青年齐聚曼谷，开启一场为期一个月的文化碰撞之旅！",
+      "filename": "content/4530_泰国年轻人玩转跨界440名南方青年齐聚曼谷开启一场为期一个月的文化碰撞之旅.md",
+      "original_url": "https://salaamalykum.com/cn/article/4530",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4530_泰国年轻人玩转跨界440名南方青年齐聚曼谷开启一场为期一个月的文化碰撞之旅.html",
+      "author": "jacob",
+      "pub_date": "2026-10-05T19:33:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "泰国",
+        "Oman Mosque"
+      ],
+      "content_hash": "5d63e365207e3910b9ebdc2ef92eb5429451e17f2b7da667f2ff649abc6dc759",
+      "word_count": 1034
+    },
+    {
+      "id": "4528",
+      "title": "英国资深记者语出惊人：现代社会危机四伏，唯有回归《古兰经》价值观才是唯一出路！",
+      "filename": "content/4528_英国资深记者语出惊人现代社会危机四伏唯有回归古兰经价值观才是唯一出路.md",
+      "original_url": "https://salaamalykum.com/cn/article/4528",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4528_英国资深记者语出惊人现代社会危机四伏唯有回归古兰经价值观才是唯一出路.html",
+      "author": "jacob",
+      "pub_date": "2026-10-05T19:31:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "英国"
+      ],
+      "content_hash": "2ca935b464c772898f9376e5306a42b20b5affc309d29220f8bd00d6c767d4c4",
+      "word_count": 2321
+    },
+    {
+      "id": "4527",
+      "title": "麦加禁寺迎来“女性志愿者”！让女性服务更贴心",
+      "filename": "content/4527_麦加禁寺迎来女性志愿者让女性服务更贴心.md",
+      "original_url": "https://salaamalykum.com/cn/article/4527",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4527_麦加禁寺迎来女性志愿者让女性服务更贴心.html",
+      "author": "jacob",
+      "pub_date": "2026-10-05T19:31:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Xinjiang Meals",
+        "麦加"
+      ],
+      "content_hash": "3ac6ec2111abaf6795dc7f31e5ad03a79e7895119ccd5e7334abda18da3e7e32",
+      "word_count": 784
+    },
+    {
+      "id": "4493",
+      "title": "国际清真寺伊玛目大会正式成立，总部设在雅加达",
+      "filename": "content/4493_国际清真寺伊玛目大会正式成立总部设在雅加达.md",
+      "original_url": "https://salaamalykum.com/cn/article/4493",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4493_国际清真寺伊玛目大会正式成立总部设在雅加达.html",
+      "author": "jacob",
+      "pub_date": "2026-09-30T23:57:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "印尼"
+      ],
+      "content_hash": "3ef019a31c873760bff5e85e9275ebe335aa9b0b354bb89e06efbb67285c3392",
+      "word_count": 997
+    },
+    {
+      "id": "4483",
+      "title": "美国议员坐不住了！联名致信内塔尼亚胡：必须严惩约旦河西岸定居者暴力，给美国公民一个交代！",
+      "filename": "content/4483_美国议员坐不住了联名致信内塔尼亚胡必须严惩约旦河西岸定居者暴力给美国公民一个交代.md",
+      "original_url": "https://salaamalykum.com/cn/article/4483",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4483_美国议员坐不住了联名致信内塔尼亚胡必须严惩约旦河西岸定居者暴力给美国公民一个交代.html",
+      "author": "jacob",
+      "pub_date": "2026-09-30T23:54:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "中东局势",
+        "美国"
+      ],
+      "content_hash": "12c0c12294d55a91c5155d7e5e8af127b64e4f97df1cbe7e543a809f3c1e7b86",
+      "word_count": 894
+    },
+    {
+      "id": "4390",
+      "title": "土耳其驻伊拉克大使现身卡尔巴拉！探访伊玛目侯赛因圣地，这背后的外交信号不简单？",
+      "filename": "content/4390_土耳其驻伊拉克大使现身卡尔巴拉探访伊玛目侯赛因圣地这背后的外交信号不简单.md",
+      "original_url": "https://salaamalykum.com/cn/article/4390",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4390_土耳其驻伊拉克大使现身卡尔巴拉探访伊玛目侯赛因圣地这背后的外交信号不简单.html",
+      "author": "jacob",
+      "pub_date": "2026-09-27T22:23:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "土耳其外交",
+        "伊拉克"
+      ],
+      "content_hash": "91ea7c64a86a5b900ac91ec9b23eac701a6371a376bf86e32d185155fe636401",
+      "word_count": 697
+    },
+    {
+      "id": "4387",
+      "title": "一场汇聚全球39国宗教领袖与伊玛目的国际会议在印尼雅加达召开",
+      "filename": "content/4387_一场汇聚全球39国宗教领袖与伊玛目的国际会议在印尼雅加达召开.md",
+      "original_url": "https://salaamalykum.com/cn/article/4387",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4387_一场汇聚全球39国宗教领袖与伊玛目的国际会议在印尼雅加达召开.html",
+      "author": "jacob",
+      "pub_date": "2026-09-27T22:23:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "印尼",
+        "Al Rahim Mosque"
+      ],
+      "content_hash": "03f797f2e59270976c9fc3c78b55cc194ec2e23199f43db07171bb002ca3a42d",
+      "word_count": 1269
+    },
+    {
+      "id": "4384",
+      "title": "西班牙总理联合国怒斥：内塔尼亚胡在加沙搞种族灭绝！态度强硬，要求全面制裁与武器禁运",
+      "filename": "content/4384_西班牙总理联合国怒斥内塔尼亚胡在加沙搞种族灭绝态度强硬要求全面制裁与武器禁运.md",
+      "original_url": "https://salaamalykum.com/cn/article/4384",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4384_西班牙总理联合国怒斥内塔尼亚胡在加沙搞种族灭绝态度强硬要求全面制裁与武器禁运.html",
+      "author": "jacob",
+      "pub_date": "2026-09-25T23:53:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "中东局势",
+        "Seoul Halal Food"
+      ],
+      "content_hash": "f635b0c8309b86af7351ee9061e95a67bba8cea186949c0a62d0522cb619b485",
+      "word_count": 777
+    },
+    {
+      "id": "4370",
+      "title": "韩国游客土耳其之旅突发“人生转折”：在马尔丁参观时当场改信伊斯兰教。",
+      "filename": "content/4370_韩国游客土耳其之旅突发人生转折在马尔丁参观时当场改信伊斯兰教.md",
+      "original_url": "https://salaamalykum.com/cn/article/4370",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4370_韩国游客土耳其之旅突发人生转折在马尔丁参观时当场改信伊斯兰教.html",
+      "author": "jacob",
+      "pub_date": "2026-09-24T05:17:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Quran Reciters",
+        "文化交流"
+      ],
+      "content_hash": "93473b8670e69b4217a0bfd58474b8be6698d95eff15da4a1093afd1c854fcc3",
+      "word_count": 577
+    },
+    {
+      "id": "4366",
+      "title": "比利时女教师因戴头巾被开除，美国最大穆斯林组织坐不住了：要求国务院介入，这事儿闹大了！",
+      "filename": "content/4366_比利时女教师因戴头巾被开除美国最大穆斯林组织坐不住了要求国务院介入这事儿闹大了.md",
+      "original_url": "https://salaamalykum.com/cn/article/4366",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4366_比利时女教师因戴头巾被开除美国最大穆斯林组织坐不住了要求国务院介入这事儿闹大了.html",
+      "author": "jacob",
+      "pub_date": "2026-09-24T05:15:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "宗教自由",
+        "职场歧视"
+      ],
+      "content_hash": "c15a7870f60863fb3811b41ff1c6627875ce9779c1be53db2453307e4243171e",
+      "word_count": 914
+    },
+    {
+      "id": "4361",
+      "title": "北爱尔兰惊现“焚烧清真寺模型”事件：三名男子被控煽动仇恨，庭审现场细节曝光！",
+      "filename": "content/4361_北爱尔兰惊现焚烧清真寺模型事件三名男子被控煽动仇恨庭审现场细节曝光.md",
+      "original_url": "https://salaamalykum.com/cn/article/4361",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4361_北爱尔兰惊现焚烧清真寺模型事件三名男子被控煽动仇恨庭审现场细节曝光.html",
+      "author": "jacob",
+      "pub_date": "2026-09-24T05:13:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "北爱尔兰",
+        "宗教冲突"
+      ],
+      "content_hash": "429b1e7910953e5126c0f180c32ef26128f93cb5c38b49903274d669a10060e2",
+      "word_count": 968
+    },
+    {
+      "id": "4348",
+      "title": "痛失泰斗！什叶派最高领袖西斯塔尼发文悼念大阿亚图拉赞贾尼，一代宗师陨落引发宗教界深切哀思",
+      "filename": "content/4348_痛失泰斗什叶派最高领袖西斯塔尼发文悼念大阿亚图拉赞贾尼一代宗师陨落引发宗教界深切哀思.md",
+      "original_url": "https://salaamalykum.com/cn/article/4348",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4348_痛失泰斗什叶派最高领袖西斯塔尼发文悼念大阿亚图拉赞贾尼一代宗师陨落引发宗教界深切哀思.html",
+      "author": "jacob",
+      "pub_date": "2026-09-24T04:00:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Penang Muslim Travel",
+        "George Town"
+      ],
+      "content_hash": "3ff9dfd264988b6cb323e1b8b4d52e61efaeddb082751f2b057075a0a7f08d3f",
+      "word_count": 921
+    },
+    {
+      "id": "4345",
+      "title": "立陶宛惊现焚烧古兰经事件！警方紧急介入调查，反伊斯兰仇恨行为引发当地社会高度关注",
+      "filename": "content/4345_立陶宛惊现焚烧古兰经事件警方紧急介入调查反伊斯兰仇恨行为引发当地社会高度关注.md",
+      "original_url": "https://salaamalykum.com/cn/article/4345",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4345_立陶宛惊现焚烧古兰经事件警方紧急介入调查反伊斯兰仇恨行为引发当地社会高度关注.html",
+      "author": "jacob",
+      "pub_date": "2026-09-24T03:58:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Maliki Fiqh",
+        "古兰经"
+      ],
+      "content_hash": "594762d950a1ec8aaa012fd1c63c6c86793483dd6fb7529329db1fefb41d6ee9",
+      "word_count": 602
+    },
+    {
+      "id": "4337",
+      "title": "波兰惊现17岁少年恐怖阴谋：密谋袭击清真寺与学校，家中搜出纳粹标志与爆炸物，或面临15年监禁！",
+      "filename": "content/4337_波兰惊现17岁少年恐怖阴谋密谋袭击清真寺与学校家中搜出纳粹标志与爆炸物或面临15年监禁.md",
+      "original_url": "https://salaamalykum.com/cn/article/4337",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4337_波兰惊现17岁少年恐怖阴谋密谋袭击清真寺与学校家中搜出纳粹标志与爆炸物或面临15年监禁.html",
+      "author": "jacob",
+      "pub_date": "2026-09-24T03:55:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "波兰",
+        "Canada Halal Food"
+      ],
+      "content_hash": "0dd16c3acf015a29c7e2fdac197a4c76537d0a5d705b97042e27dfa5dd63ab99",
+      "word_count": 1034
+    },
+    {
+      "id": "4336",
+      "title": "澳洲突发！65岁男子被捕：竟是“伊斯兰国”头号网络推手，疯狂散布万条血腥视频，背后真相令人后背发凉！",
+      "filename": "content/4336_澳洲突发65岁男子被捕竟是伊斯兰国头号网络推手疯狂散布万条血腥视频背后真相令人后背发凉.md",
+      "original_url": "https://salaamalykum.com/cn/article/4336",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/4336_澳洲突发65岁男子被捕竟是伊斯兰国头号网络推手疯狂散布万条血腥视频背后真相令人后背发凉.html",
+      "author": "jacob",
+      "pub_date": "2026-09-24T03:55:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "Montreal Muslim Travel",
+        "澳大利亚"
+      ],
+      "content_hash": "2979a9f6480f0983f4cdb618a60467bc32e56805c853f618b45712393df0ae62",
+      "word_count": 1127
+    },
+    {
+      "id": "3914",
+      "title": "漫威明星加入释放巴勒斯坦领袖马尔万·巴尔古提的运动",
+      "filename": "content/3914_漫威明星加入释放巴勒斯坦领袖马尔万巴尔古提的运动.md",
+      "original_url": "https://salaamalykum.com/cn/article/3914",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3914_漫威明星加入释放巴勒斯坦领袖马尔万巴尔古提的运动.html",
+      "author": "jacob",
+      "pub_date": "2026-08-26T18:28:38Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "巴以冲突",
+        "名人声援"
+      ],
+      "content_hash": "9654d76a5f730ad6ea7960fada45f091deb3a29d722829ffc7cbc4824aea982a",
+      "word_count": 1785
+    },
+    {
+      "id": "3912",
+      "title": "被囚禁的维吾尔知识分子亚力坤·肉孜荣获2026年格拉谢拉·费尔南德斯·梅吉德人权奖",
+      "filename": "content/3912_被囚禁的维吾尔知识分子亚力坤肉孜荣获2026年格拉谢拉费尔南德斯梅吉德人权奖.md",
+      "original_url": "https://salaamalykum.com/cn/article/3912",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3912_被囚禁的维吾尔知识分子亚力坤肉孜荣获2026年格拉谢拉费尔南德斯梅吉德人权奖.html",
+      "author": "jacob",
+      "pub_date": "2026-08-26T18:28:37Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "维吾尔",
+        "人权"
+      ],
+      "content_hash": "92b9eb9062ceb5922f8ff109dfc82d47d27e5daa3c6ee37da109bf08796bdd3e",
+      "word_count": 1463
+    },
+    {
+      "id": "3911",
+      "title": "布尔汉丁·艾丁勒：中国在东突厥斯坦的暴政",
+      "filename": "content/3911_布尔汉丁艾丁勒中国在东突厥斯坦的暴政.md",
+      "original_url": "https://salaamalykum.com/cn/article/3911",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3911_布尔汉丁艾丁勒中国在东突厥斯坦的暴政.html",
+      "author": "jacob",
+      "pub_date": "2026-08-26T18:28:17Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "维吾尔",
+        "东突厥斯坦"
+      ],
+      "content_hash": "ed17a267ab9b89b9aabb6c531f02b7a5b9b25b91193b0aa818901501bde6db27",
+      "word_count": 2183
+    },
+    {
+      "id": "3910",
+      "title": "叙利亚法院判处前大穆夫提终身监禁",
+      "filename": "content/3910_叙利亚法院判处前大穆夫提终身监禁.md",
+      "original_url": "https://salaamalykum.com/cn/article/3910",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3910_叙利亚法院判处前大穆夫提终身监禁.html",
+      "author": "jacob",
+      "pub_date": "2026-08-26T18:28:15Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "叙利亚",
+        "政治"
+      ],
+      "content_hash": "8b77eb8227f74b2742e060df7c2a486bb54b81c47a0502fa7bd0128bed16528c",
+      "word_count": 2383
+    },
+    {
+      "id": "3909",
+      "title": "加拿大对维吾尔人的庇护承诺落空",
+      "filename": "content/3909_加拿大对维吾尔人的庇护承诺落空.md",
+      "original_url": "https://salaamalykum.com/cn/article/3909",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3909_加拿大对维吾尔人的庇护承诺落空.html",
+      "author": "jacob",
+      "pub_date": "2026-08-26T18:28:14Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "加拿大",
+        "维吾尔"
+      ],
+      "content_hash": "6102fa521ceb4a6f969a75a5ca38359e93f081b361903447b3e4a2cb73f41ea0",
+      "word_count": 2760
+    },
+    {
+      "id": "3908",
+      "title": "被囚禁的维吾尔知识分子亚力坤·肉孜荣获2026年格拉谢拉·费尔南德斯·梅吉德人权奖",
+      "filename": "content/3908_被囚禁的维吾尔知识分子亚力坤肉孜荣获2026年格拉谢拉费尔南德斯梅吉德人权奖.md",
+      "original_url": "https://salaamalykum.com/cn/article/3908",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3908_被囚禁的维吾尔知识分子亚力坤肉孜荣获2026年格拉谢拉费尔南德斯梅吉德人权奖.html",
+      "author": "jacob",
+      "pub_date": "2026-08-26T18:28:12Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "人权",
+        "维吾尔"
+      ],
+      "content_hash": "26feaa33362f38518aea0edeca27b712a31f88cab80070a1871f9aad098f984d",
+      "word_count": 1186
+    },
+    {
+      "id": "3907",
+      "title": "穆斯林并没有在英国建立“伊斯兰共和国”。这是他们的家园",
+      "filename": "content/3907_穆斯林并没有在英国建立伊斯兰共和国这是他们的家园.md",
+      "original_url": "https://salaamalykum.com/cn/article/3907",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3907_穆斯林并没有在英国建立伊斯兰共和国这是他们的家园.html",
+      "author": "jacob",
+      "pub_date": "2026-08-26T18:28:08Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "英国"
+      ],
+      "content_hash": "6cd823fe5bcd6064fa6bdc6386c8733ddf732b68ed80dde9dc46a134465d2cf0",
+      "word_count": 4391
+    },
+    {
+      "id": "3906",
+      "title": "停止对清真食品的仇恨",
+      "filename": "content/3906_停止对清真食品的仇恨.md",
+      "original_url": "https://salaamalykum.com/cn/article/3906",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3906_停止对清真食品的仇恨.html",
+      "author": "jacob",
+      "pub_date": "2026-08-26T18:28:06Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "反歧视",
+        "清真食品"
+      ],
+      "content_hash": "b753be14a36c90646eb6c3dd8e32ef5ed4667b2be065f2526e95680dd0e4d9b2",
+      "word_count": 1486
+    },
+    {
+      "id": "3904",
+      "title": "罗兴亚难民在孟加拉国难民营集会，要求安全返回缅甸",
+      "filename": "content/3904_罗兴亚难民在孟加拉国难民营集会要求安全返回缅甸.md",
+      "original_url": "https://salaamalykum.com/cn/article/3904",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3904_罗兴亚难民在孟加拉国难民营集会要求安全返回缅甸.html",
+      "author": "jacob",
+      "pub_date": "2026-08-26T18:27:37Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "缅甸",
+        "罗兴亚"
+      ],
+      "content_hash": "2330e070ddee2b98c7154dd944e1324c8f12dc43cb713daa78297901629f3ba6",
+      "word_count": 1219
+    },
+    {
+      "id": "3666",
+      "title": "塔利班执政五年：国家得以存续，但代价几何？",
+      "filename": "content/3666_塔利班执政五年国家得以存续但代价几何.md",
+      "original_url": "https://salaamalykum.com/cn/article/3666",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3666_塔利班执政五年国家得以存续但代价几何.html",
+      "author": "jacob",
+      "pub_date": "2026-08-15T23:17:20Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "和平对话",
+        "人权",
+        "塔利班",
+        "阿富汗"
+      ],
+      "content_hash": "8306b75e05fbc7e9c586040d0296ba1b2d4a6b396381e4beda4bd35be51f30c0",
+      "word_count": 3968
+    },
+    {
+      "id": "3664",
+      "title": "拉巴大屠杀十三周年：家属敦促埃及释放政治犯",
+      "filename": "content/3664_拉巴大屠杀十三周年家属敦促埃及释放政治犯.md",
+      "original_url": "https://salaamalykum.com/cn/article/3664",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3664_拉巴大屠杀十三周年家属敦促埃及释放政治犯.html",
+      "author": "jacob",
+      "pub_date": "2026-08-15T23:15:30Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "和平对话",
+        "人权",
+        "中东局势",
+        "埃及"
+      ],
+      "content_hash": "89b1757691532046a72c32cca0ea407daac818cdeeff995300076a19d97fa6e6",
+      "word_count": 966
+    },
+    {
+      "id": "3660",
+      "title": "URM报告揭露北京在安卡拉的渗透计划",
+      "filename": "content/3660_URM报告揭露北京在安卡拉的渗透计划.md",
+      "original_url": "https://salaamalykum.com/cn/article/3660",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3660_URM报告揭露北京在安卡拉的渗透计划.html",
+      "author": "jacob",
+      "pub_date": "2026-08-15T23:12:39Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "土耳其",
+        "人权",
+        "维吾尔"
+      ],
+      "content_hash": "b0f9386b0d44bfaa75af1c10150c17d5b1e182fd183b48d1141ef2892b535842",
+      "word_count": 1433
+    },
+    {
+      "id": "3653",
+      "title": "哈马斯赞扬伊朗最高国安委秘书呼吁结束地区战争",
+      "filename": "content/3653_哈马斯赞扬伊朗最高国安委秘书呼吁结束地区战争.md",
+      "original_url": "https://salaamalykum.com/cn/article/3653",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3653_哈马斯赞扬伊朗最高国安委秘书呼吁结束地区战争.html",
+      "author": "jacob",
+      "pub_date": "2026-08-15T23:08:05Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊朗",
+        "哈马斯",
+        "中东局势"
+      ],
+      "content_hash": "ebc5714b4a79b6bfb0b0ed29944b64f270cc11464b324b2d8d60710a9b72ade7",
+      "word_count": 328
+    },
+    {
+      "id": "3652",
+      "title": "也门领导人：侮辱《古兰经》是公开表达对伊斯兰教的敌意",
+      "filename": "content/3652_也门领导人侮辱古兰经是公开表达对伊斯兰教的敌意.md",
+      "original_url": "https://salaamalykum.com/cn/article/3652",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3652_也门领导人侮辱古兰经是公开表达对伊斯兰教的敌意.html",
+      "author": "jacob",
+      "pub_date": "2026-08-15T23:07:28Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "古兰经",
+        "也门"
+      ],
+      "content_hash": "b8134b2f72c5fdb7fe6f52911de7553578573190f582c64a5fee181a1fb49b41",
+      "word_count": 821
+    },
+    {
+      "id": "3649",
+      "title": "密歇根州埃尔-赛义德胜选后，反穆斯林仇恨言论超越政治界限",
+      "filename": "content/3649_密歇根州埃尔-赛义德胜选后反穆斯林仇恨言论超越政治界限.md",
+      "original_url": "https://salaamalykum.com/cn/article/3649",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3649_密歇根州埃尔-赛义德胜选后反穆斯林仇恨言论超越政治界限.html",
+      "author": "jacob",
+      "pub_date": "2026-08-15T23:05:03Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "仇恨言论",
+        "密歇根州",
+        "人权",
+        "穆斯林"
+      ],
+      "content_hash": "2e2b2a22f4c9348407933ed600bfdbcd0bb86612047a520a7cb4a72a586d8e60",
+      "word_count": 2546
+    },
+    {
+      "id": "3648",
+      "title": "马什哈德伊玛目礼萨圣陵举行胡特拜哈尼仪式",
+      "filename": "content/3648_马什哈德伊玛目礼萨圣陵举行胡特拜哈尼仪式.md",
+      "original_url": "https://salaamalykum.com/cn/article/3648",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3648_马什哈德伊玛目礼萨圣陵举行胡特拜哈尼仪式.html",
+      "author": "jacob",
+      "pub_date": "2026-08-15T23:04:02Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊玛目",
+        "马什哈德",
+        "伊斯兰文化",
+        "圣陵"
+      ],
+      "content_hash": "b10ea4cb4f8188f76053fc40bbed1b5b9e71e469c57c7caf5069055fa48829f0",
+      "word_count": 155
+    },
+    {
+      "id": "3646",
+      "title": "巴黎谴责以色列定居者占领巴勒斯坦人房屋",
+      "filename": "content/3646_巴黎谴责以色列定居者占领巴勒斯坦人房屋.md",
+      "original_url": "https://salaamalykum.com/cn/article/3646",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3646_巴黎谴责以色列定居者占领巴勒斯坦人房屋.html",
+      "author": "jacob",
+      "pub_date": "2026-08-15T23:02:48Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "以色列",
+        "巴黎",
+        "人权",
+        "巴勒斯坦"
+      ],
+      "content_hash": "7defee41d6174f54c41640708f7f1d7c1484d37df97026a0030eda08b45054f7",
+      "word_count": 399
+    },
+    {
+      "id": "3645",
+      "title": "雅加达与曼谷将加强清真产业合作",
+      "filename": "content/3645_雅加达与曼谷将加强清真产业合作.md",
+      "original_url": "https://salaamalykum.com/cn/article/3645",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3645_雅加达与曼谷将加强清真产业合作.html",
+      "author": "jacob",
+      "pub_date": "2026-08-15T23:02:12Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "曼谷",
+        "印度尼西亚",
+        "东南亚",
+        "清真产业"
+      ],
+      "content_hash": "2ac4df42bd183d79f7dc8ea89b1a0d05743a49e047daa67bc44318ec51fea623",
+      "word_count": 568
+    },
+    {
+      "id": "3644",
+      "title": "中非共和国穆斯林在残酷战争多年后重返家园",
+      "filename": "content/3644_中非共和国穆斯林在残酷战争多年后重返家园.md",
+      "original_url": "https://salaamalykum.com/cn/article/3644",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3644_中非共和国穆斯林在残酷战争多年后重返家园.html",
+      "author": "jacob",
+      "pub_date": "2026-08-15T23:01:37Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "非洲",
+        "中非共和国",
+        "和平对话",
+        "穆斯林"
+      ],
+      "content_hash": "c3534f1998418f484c07c78cd61cecde0b1b9b015ddc8cc39aefef940e47cdb4",
+      "word_count": 1487
+    },
+    {
+      "id": "3643",
+      "title": "阿尔巴尼亚什科德尔新清真寺落成",
+      "filename": "content/3643_阿尔巴尼亚什科德尔新清真寺落成.md",
+      "original_url": "https://salaamalykum.com/cn/article/3643",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3643_阿尔巴尼亚什科德尔新清真寺落成.html",
+      "author": "jacob",
+      "pub_date": "2026-08-15T23:00:53Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "清真寺",
+        "伊斯兰文化",
+        "阿尔巴尼亚"
+      ],
+      "content_hash": "31a8fe44d571f40d0773db2c8f5c97293d040d3f90008c840c88eb3c04056a84",
+      "word_count": 306
+    },
+    {
+      "id": "3626",
+      "title": "田纳西州初选：发表反穆斯林言论的共和党候选人遭遇败选",
+      "filename": "content/3626_田纳西州初选发表反穆斯林言论的共和党候选人遭遇败选.md",
+      "original_url": "https://salaamalykum.com/cn/article/3626",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3626_田纳西州初选发表反穆斯林言论的共和党候选人遭遇败选.html",
+      "author": "jacob",
+      "pub_date": "2026-08-13T14:01:35Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "田纳西州",
+        "共和党",
+        "穆斯林",
+        "和平对话"
+      ],
+      "content_hash": "a52d4c4eb73eda697bf7729d3da6d24b25a0603f87f67967128eedae37f2314b",
+      "word_count": 1527
+    },
+    {
+      "id": "3624",
+      "title": "“哈比比城”没有锡安主义者：绘制纽约西南亚与北非裔社区地图",
+      "filename": "content/3624_哈比比城没有锡安主义者绘制纽约西南亚与北非裔社区地图.md",
+      "original_url": "https://salaamalykum.com/cn/article/3624",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3624_哈比比城没有锡安主义者绘制纽约西南亚与北非裔社区地图.html",
+      "author": "jacob",
+      "pub_date": "2026-08-13T12:35:37Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊斯兰文化",
+        "穆斯林",
+        "纽约"
+      ],
+      "content_hash": "2612c672631451df2a8f3aa57af981623fcfdff61db660e021f8c5a8aea15e9a",
+      "word_count": 2717
+    },
+    {
+      "id": "3621",
+      "title": "发表反穆斯林言论的议员安迪·奥格尔斯在共和党初选中落败",
+      "filename": "content/3621_发表反穆斯林言论的议员安迪奥格尔斯在共和党初选中落败.md",
+      "original_url": "https://salaamalykum.com/cn/article/3621",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3621_发表反穆斯林言论的议员安迪奥格尔斯在共和党初选中落败.html",
+      "author": "jacob",
+      "pub_date": "2026-08-13T12:35:06Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "穆斯林",
+        "和平对话"
+      ],
+      "content_hash": "e7a659e7b2e937a04b88c516f8ea9b3bc505bf9462c3e90db2f436989aa14ab4",
+      "word_count": 1360
+    },
+    {
+      "id": "3618",
+      "title": "反穆斯林美国众议员安迪·奥格尔斯在共和党初选中落败",
+      "filename": "content/3618_反穆斯林美国众议员安迪奥格尔斯在共和党初选中落败.md",
+      "original_url": "https://salaamalykum.com/cn/article/3618",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3618_反穆斯林美国众议员安迪奥格尔斯在共和党初选中落败.html",
+      "author": "jacob",
+      "pub_date": "2026-08-13T12:34:35Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "穆斯林",
+        "人权"
+      ],
+      "content_hash": "0b1eb6413f6b0f69db35ebc514942b9468e913de80adedc72217c57be2fcffb5",
+      "word_count": 875
+    },
+    {
+      "id": "3615",
+      "title": "消息人士：美以正“积极致力于”剥夺约旦对阿克萨清真寺的管辖权",
+      "filename": "content/3615_消息人士美以正积极致力于剥夺约旦对阿克萨清真寺的管辖权.md",
+      "original_url": "https://salaamalykum.com/cn/article/3615",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3615_消息人士美以正积极致力于剥夺约旦对阿克萨清真寺的管辖权.html",
+      "author": "jacob",
+      "pub_date": "2026-08-13T12:34:05Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "阿克萨清真寺",
+        "中东局势"
+      ],
+      "content_hash": "772a46a8acce1fa84f1c0eba6effc226da3111046ebc5b1b76e74e8f92aaf1fd",
+      "word_count": 3384
+    },
+    {
+      "id": "3263",
+      "title": "纳杰夫经学院如何赋能阿尔巴因朝觐宣教？",
+      "filename": "content/3263_纳杰夫经学院如何赋能阿尔巴因朝觐宣教.md",
+      "original_url": "https://salaamalykum.com/cn/article/3263",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3263_纳杰夫经学院如何赋能阿尔巴因朝觐宣教.html",
+      "author": "malik",
+      "pub_date": "2026-07-23T23:16:52Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊斯兰文化",
+        "阿尔拜因"
+      ],
+      "content_hash": "465a665c83bfb1baad851d3fd024c9ec88e117a59983ad638335c495fc8dae6f",
+      "word_count": 1329
+    },
+    {
+      "id": "3261",
+      "title": "副朝与朝觐有何区别？设拉子强调管理重要性",
+      "filename": "content/3261_副朝与朝觐有何区别设拉子强调管理重要性.md",
+      "original_url": "https://salaamalykum.com/cn/article/3261",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3261_副朝与朝觐有何区别设拉子强调管理重要性.html",
+      "author": "malik",
+      "pub_date": "2026-07-23T23:16:31Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "阿尔拜因",
+        "伊斯兰文化"
+      ],
+      "content_hash": "4510bcf4bee51ea4eb65e9283bfe029a988764759e54c21b85275c7e9cc02a28",
+      "word_count": 930
+    },
+    {
+      "id": "3260",
+      "title": "阿尔拜因朝觐：伊朗边境口岸准备就绪",
+      "filename": "content/3260_阿尔拜因朝觐伊朗边境口岸准备就绪.md",
+      "original_url": "https://salaamalykum.com/cn/article/3260",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3260_阿尔拜因朝觐伊朗边境口岸准备就绪.html",
+      "author": "malik",
+      "pub_date": "2026-07-23T23:16:17Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊斯兰文化",
+        "阿尔拜因"
+      ],
+      "content_hash": "8dd0ed4f6a855f4af166a8e96ff51dd7ce6cc603773e4f1acfe4ac33c3c385a6",
+      "word_count": 732
+    },
+    {
+      "id": "3259",
+      "title": "纳杰夫经学院如何赋能阿尔巴因朝觐宣教？",
+      "filename": "content/3259_纳杰夫经学院如何赋能阿尔巴因朝觐宣教.md",
+      "original_url": "https://salaamalykum.com/cn/article/3259",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3259_纳杰夫经学院如何赋能阿尔巴因朝觐宣教.html",
+      "author": "malik",
+      "pub_date": "2026-07-23T23:16:14Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊斯兰文化",
+        "纳杰夫"
+      ],
+      "content_hash": "f1861fb87d4e29ede8ea096e682f9c183299cbb6bde451b0fce407b6588108e4",
+      "word_count": 1110
+    },
+    {
+      "id": "3258",
+      "title": "巴基斯坦实现跨教派联合祈祷，宗教和谐迈出关键一步",
+      "filename": "content/3258_巴基斯坦实现跨教派联合祈祷宗教和谐迈出关键一步.md",
+      "original_url": "https://salaamalykum.com/cn/article/3258",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3258_巴基斯坦实现跨教派联合祈祷宗教和谐迈出关键一步.html",
+      "author": "malik",
+      "pub_date": "2026-07-23T23:16:00Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊斯兰文化",
+        "巴基斯坦"
+      ],
+      "content_hash": "4119725ab4e082a2a7917a4374d6ca781af4fb449f717981274ad8fb8d767173",
+      "word_count": 883
+    },
+    {
+      "id": "3248",
+      "title": "伊拉克阿尔拜因朝觐：数百万信徒徒步前往卡尔巴拉",
+      "filename": "content/3248_伊拉克阿尔拜因朝觐数百万信徒徒步前往卡尔巴拉.md",
+      "original_url": "https://salaamalykum.com/cn/article/3248",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3248_伊拉克阿尔拜因朝觐数百万信徒徒步前往卡尔巴拉.html",
+      "author": "malik",
+      "pub_date": "2026-07-23T23:11:06Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊斯兰文化",
+        "阿尔拜因"
+      ],
+      "content_hash": "65a2138100a86e6eab4fddc35df77ace148b548173040a5d44fe3e68cdaff99f",
+      "word_count": 955
+    },
+    {
+      "id": "3247",
+      "title": "阿尔巴因朝觐入境指南：萨马系统登记全解析",
+      "filename": "content/3247_阿尔巴因朝觐入境指南萨马系统登记全解析.md",
+      "original_url": "https://salaamalykum.com/cn/article/3247",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3247_阿尔巴因朝觐入境指南萨马系统登记全解析.html",
+      "author": "malik",
+      "pub_date": "2026-07-23T23:10:52Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "阿尔拜因",
+        "伊斯兰文化"
+      ],
+      "content_hash": "a00f2d0861101dfd2f14f811913a60bb258969c33482e5deaaf6b454a05cf0b1",
+      "word_count": 733
+    },
+    {
+      "id": "3246",
+      "title": "斯卡杜宗教间对话：伊玛目侯赛因如何促进和平？",
+      "filename": "content/3246_斯卡杜宗教间对话伊玛目侯赛因如何促进和平.md",
+      "original_url": "https://salaamalykum.com/cn/article/3246",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/3246_斯卡杜宗教间对话伊玛目侯赛因如何促进和平.html",
+      "author": "malik",
+      "pub_date": "2026-07-23T23:10:38Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊斯兰文化"
+      ],
+      "content_hash": "6e7a5dc87717356a30af4a0a996255cdd37f1d42b09db493b5caca975d9c07a6",
+      "word_count": 837
+    },
+    {
+      "id": "963",
+      "title": "2026年伊朗战争（第6/6篇）",
+      "filename": "content/963_2026年伊朗战争第66篇.md",
+      "original_url": "https://salaamalykum.com/cn/article/963",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/963_2026年伊朗战争第66篇.html",
+      "author": "Hassanuk",
+      "pub_date": "2026-05-11T16:35:56Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊朗",
+        "中东局势"
+      ],
+      "content_hash": "c6e68aacc5ac788e6c58628a1fc926aeb97f5d224a8bcc3c5c0916386630c617",
+      "word_count": 4588
+    },
+    {
+      "id": "964",
+      "title": "2026年霍尔木兹海峡危机（第2/2篇）",
+      "filename": "content/964_2026年霍尔木兹海峡危机第22篇.md",
+      "original_url": "https://salaamalykum.com/cn/article/964",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/964_2026年霍尔木兹海峡危机第22篇.html",
+      "author": "Hassanuk",
+      "pub_date": "2026-05-11T16:35:56Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "航运安全",
+        "霍尔木兹海峡"
+      ],
+      "content_hash": "828f2e09a6b5adcabaec305e7145ae366208a490bb59938f3fad88e91b805603",
+      "word_count": 27485
+    },
+    {
+      "id": "961",
+      "title": "2026年伊朗战争（第4/6篇）",
+      "filename": "content/961_2026年伊朗战争第46篇.md",
+      "original_url": "https://salaamalykum.com/cn/article/961",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/961_2026年伊朗战争第46篇.html",
+      "author": "Hassanuk",
+      "pub_date": "2026-05-11T16:35:55Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "中东局势",
+        "伊朗"
+      ],
+      "content_hash": "17b84bf4aa8605e1cad53dc038e0ff942fb1447b9738bbd031ab7b798c2c975a",
+      "word_count": 28536
+    },
+    {
+      "id": "962",
+      "title": "2026年伊朗战争（第5/6篇）",
+      "filename": "content/962_2026年伊朗战争第56篇.md",
+      "original_url": "https://salaamalykum.com/cn/article/962",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/962_2026年伊朗战争第56篇.html",
+      "author": "Hassanuk",
+      "pub_date": "2026-05-11T16:35:55Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "中东局势",
+        "伊朗"
+      ],
+      "content_hash": "753993d3d32326df3b006990e20d85abf5277cfadc11aee7f59df7678afbe16f",
+      "word_count": 28187
+    },
+    {
+      "id": "959",
+      "title": "2026年伊朗战争（第2/6篇）",
+      "filename": "content/959_2026年伊朗战争第26篇.md",
+      "original_url": "https://salaamalykum.com/cn/article/959",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/959_2026年伊朗战争第26篇.html",
+      "author": "Hassanuk",
+      "pub_date": "2026-05-11T16:35:54Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "中东局势",
+        "伊朗"
+      ],
+      "content_hash": "a1366de920179b826f2a4ef987e85800178f52650dbfb7435ca10f882244b50e",
+      "word_count": 19799
+    },
+    {
+      "id": "960",
+      "title": "2026年伊朗战争（第3/6篇）",
+      "filename": "content/960_2026年伊朗战争第36篇.md",
+      "original_url": "https://salaamalykum.com/cn/article/960",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/960_2026年伊朗战争第36篇.html",
+      "author": "Hassanuk",
+      "pub_date": "2026-05-11T16:35:54Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "伊朗",
+        "中东局势"
+      ],
+      "content_hash": "018b70f249d6fc5db313670da4fb21ab7e44d8ebe56bcf757b629acb8e72ccd0",
+      "word_count": 28205
+    },
+    {
+      "id": "948",
+      "title": "2026年伊朗战争全解析：美国、以色列与霍尔木兹海峡冲突",
+      "filename": "content/948_2026年伊朗战争全解析美国以色列与霍尔木兹海峡冲突.md",
+      "original_url": "https://salaamalykum.com/cn/article/948",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/948_2026年伊朗战争全解析美国以色列与霍尔木兹海峡冲突.html",
+      "author": "Hassanuk",
+      "pub_date": "2026-05-10T15:08:22Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "霍尔木兹海峡",
+        "伊朗"
+      ],
+      "content_hash": "59f2b25f9750d64bc6a57e977d0e27e9de8e4f44c463521079cb76de6bac7c38",
+      "word_count": 13446
+    },
+    {
+      "id": "949",
+      "title": "2026年霍尔木兹海峡危机（第1/2篇）",
+      "filename": "content/949_2026年霍尔木兹海峡危机第12篇.md",
+      "original_url": "https://salaamalykum.com/cn/article/949",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/949_2026年霍尔木兹海峡危机第12篇.html",
+      "author": "Hassanuk",
+      "pub_date": "2026-05-10T15:08:22Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "霍尔木兹海峡",
+        "航运安全"
+      ],
+      "content_hash": "b9e5ced2596748d4b2fce2558a902f9c621d6365e652c92b3d0ae4eb96e3db02",
+      "word_count": 15610
+    },
+    {
+      "id": "950",
+      "title": "以色列和巴勒斯坦",
+      "filename": "content/950_以色列和巴勒斯坦.md",
+      "original_url": "https://salaamalykum.com/cn/article/950",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/950_以色列和巴勒斯坦.html",
+      "author": "Hassanuk",
+      "pub_date": "2026-05-10T15:08:22Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "人权",
+        "巴勒斯坦"
+      ],
+      "content_hash": "065e9913cae26e31c5a309f77a2542b5409577be518f99e27f0b6f79d8e01fcb",
+      "word_count": 6452
+    },
+    {
+      "id": "947",
+      "title": "2026年伊朗战争（第1/6篇）",
+      "filename": "content/947_2026年伊朗战争第16篇.md",
+      "original_url": "https://salaamalykum.com/cn/article/947",
+      "canonical_url": "https://salaamalykum.github.io/muslimnews/content/947_2026年伊朗战争第16篇.html",
+      "author": "Hassanuk",
+      "pub_date": "2026-05-10T14:58:24Z",
+      "updated_at": "2026-10-30T07:50:00Z",
+      "language": "zh-CN",
+      "topics": [
+        "国际新闻",
+        "International News",
+        "Muslim World",
+        "中东局势",
+        "伊朗"
+      ],
+      "content_hash": "70eb4594c55cf4ff548079244de07a64966658c1c11a472752bf3d1e542b9392",
+      "word_count": 24469
+    }
+  ]
+}

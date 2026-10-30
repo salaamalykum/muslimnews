@@ -1,0 +1,21 @@
+title: "MuslimNews: Global Islamic & International News RAG Corpus"
+description: "Curated corpus of 173 international news articles on the global Muslim world, synchronized from salaamalykum.com."
+url: "https://salaamalykum.github.io"
+baseurl: "/muslimnews"
+theme: minima
+version: "v1.0.0"
+lastmod: "2026-10-30T07:50:00Z"
+
+include:
+  - .well-known
+  - robots.txt
+  - sitemap.xml
+  - feed.xml
+  - atom.xml
+  - llms.txt
+  - llms-full.txt
+  - metadata
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed

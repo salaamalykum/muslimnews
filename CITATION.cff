@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this dataset or RAG corpus in your research or LLM applications, please cite it as below."
+authors:
+  - family-names: "Open Data Hub"
+    given-names: "Salaamalykum"
+title: "MuslimNews: Global Islamic & International News RAG Corpus"
+version: v1.0.0
+date-released: 2026-10-30
+license: MIT
+url: "https://github.com/salaamalykum/muslimnews"
+repository-code: "https://github.com/salaamalykum/muslimnews"
+identifiers:
+  - type: url
+    value: "https://huggingface.co/datasets/qurancn/muslimnews"
+    description: "Hugging Face Machine-Trainable Parquet & JSONL Dataset"

@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "@language": "zh",
+    "@vocab": "https://schema.org/",
+    "sc": "https://schema.org/",
+    "cr": "http://mlcommons.org/croissant/",
+    "dct": "http://purl.org/dc/terms/"
+  },
+  "@type": "sc:Dataset",
+  "name": "MuslimNews-RAG-Corpus",
+  "version": "v1.0.0",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30T07:50:00Z",
+  "license": "https://opensource.org/licenses/MIT",
+  "url": "https://github.com/salaamalykum/muslimnews",
+  "sameAs": [
+    "https://huggingface.co/datasets/qurancn/muslimnews",
+    "https://salaamalykum.github.io/muslimnews/",
+    "https://salaamalykum.com/cn/topic/%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB"
+  ],
+  "description": "Curated RAG & LLM Dataset of 173 International News Articles on the Global Muslim World, synchronized from salaamalykum.com.",
+  "creator": {
+    "@type": "sc:Organization",
+    "name": "Salaamalykum Open Data Hub",
+    "url": "https://salaamalykum.com"
+  },
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "jsonl-corpus",
+      "name": "muslimnews_dataset.jsonl",
+      "contentUrl": "https://raw.githubusercontent.com/salaamalykum/muslimnews/main/metadata/muslimnews_dataset.jsonl",
+      "encodingFormat": "application/jsonlines"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "rag-chunks",
+      "name": "muslimnews_rag_chunks.jsonl",
+      "contentUrl": "https://raw.githubusercontent.com/salaamalykum/muslimnews/main/metadata/muslimnews_rag_chunks.jsonl",
+      "encodingFormat": "application/jsonlines"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "hf-parquet-train",
+      "name": "train-00000-of-00001.parquet",
+      "contentUrl": "https://huggingface.co/datasets/qurancn/muslimnews/resolve/main/data/train-00000-of-00001.parquet",
+      "encodingFormat": "application/x-parquet"
+    }
+  ]
+}
